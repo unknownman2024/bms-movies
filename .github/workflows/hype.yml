@@ -1,0 +1,35 @@
+name: HypeMeter Data Fetch
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # Runs daily at 6 AM UTC, equivalent to 11:30 AM IST
+  workflow_dispatch:
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install aiohttp
+
+    - name: Run the hypemeter script
+      run: python hype.py
+
+    - name: Commit and push data
+      run: |
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@github.com'
+        git add HYPE/Data/
+        git commit -m "Update hypemeter data for $(date +'%Y-%m-%d')" || echo "No changes to commit"
+        git push
