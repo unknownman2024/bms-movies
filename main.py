@@ -215,13 +215,15 @@ if __name__ == "__main__":
                 executor.shutdown(wait=False, cancel_futures=True)
                 break
 
-    # Save venues (direct as before)
+    # Save venues (as before)
     os.makedirs("output", exist_ok=True)
     with open("output/venues.json", "w", encoding="utf-8") as f:
         json.dump(all_venues, f, indent=2, ensure_ascii=False)
 
-    # ---------------- Direct flatten movies -----------------
+    # ---------------- Flatten and count cities per movie -----------------
     movies_flat = {}
+    movie_city_count = {}
+
     for city, movies in all_movies.items():
         for movie_name, details in movies.items():
             if movie_name not in movies_flat:
@@ -235,13 +237,25 @@ if __name__ == "__main__":
                     "isNewEvent": details.get("isNewEvent"),
                     "Variants": []
                 }
+                movie_city_count[movie_name] = set()
+            
+            # Add variant details if not already present
             for variant in details.get("Variants", []):
                 if variant not in movies_flat[movie_name]["Variants"]:
                     movies_flat[movie_name]["Variants"].append(variant)
 
-    movies_list = list(movies_flat.values())
+            # Track which cities this movie appears in
+            movie_city_count[movie_name].add(city)
 
+    # Prepare the final sorted list of movies
+    sorted_movies = sorted(
+        movies_flat.values(),
+        key=lambda x: len(movie_city_count[x["Title"]]),
+        reverse=True
+    )
+
+    # Save sorted movies to JSON
     with open("output/movies.json", "w", encoding="utf-8") as f:
-        json.dump(movies_list, f, indent=2, ensure_ascii=False)
+        json.dump(sorted_movies, f, indent=2, ensure_ascii=False)
 
-    print(f"🎉 Finished. Saved {len(movies_list)} unique movies and {len(all_venues)} unique venues.")
+    print(f"🎉 Finished. Saved {len(sorted_movies)} unique movies sorted by city count and {len(all_venues)} unique venues.")
