@@ -247,15 +247,32 @@ if __name__ == "__main__":
             # Track which cities this movie appears in
             movie_city_count[movie_name].add(city)
 
-    # Prepare the final sorted list of movies
+    # Prepare the final sorted list of movies with city count included
     sorted_movies = sorted(
         movies_flat.values(),
         key=lambda x: len(movie_city_count[x["Title"]]),
         reverse=True
     )
 
+    # Add city count metadata before the Variants key
+    final_movies = []
+    for movie in sorted_movies:
+        movie_name = movie["Title"]
+        new_movie = {
+            "Title": movie["Title"],
+            "Poster": movie["Poster"],
+            "Genres": movie["Genres"],
+            "Rating": movie["Rating"],
+            "Duration": movie["Duration"],
+            "EventDate": movie["EventDate"],
+            "isNewEvent": movie["isNewEvent"],
+            "CityCount": len(movie_city_count[movie_name]),
+            "Variants": movie["Variants"]
+        }
+        final_movies.append(new_movie)
+
     # Save sorted movies to JSON
     with open("output/movies.json", "w", encoding="utf-8") as f:
-        json.dump(sorted_movies, f, indent=2, ensure_ascii=False)
+        json.dump(final_movies, f, indent=2, ensure_ascii=False)
 
-    print(f"🎉 Finished. Saved {len(sorted_movies)} unique movies sorted by city count and {len(all_venues)} unique venues.")
+    print(f"🎉 Finished. Saved {len(final_movies)} unique movies with city count and {len(all_venues)} unique venues.")
