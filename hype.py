@@ -6,7 +6,7 @@ from datetime import datetime, timedelta, timezone
 
 # TMDb API details
 API_KEY = "6cdf5e25afce3722ee5f0c5bd30cc56c"
-BASE_URL = "https://api.themoviedb.org/3/discover/movie"
+BASE_URL = "https://api.tmdb.org/3/discover/movie"
 REGION = "IN"
 LANGUAGE = "en-US"
 MOVIE_LANGUAGES_ARRAY = ["hi", "ta", "te", "ml", "kn"]
