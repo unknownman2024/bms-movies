@@ -221,58 +221,80 @@ if __name__ == "__main__":
         json.dump(all_venues, f, indent=2, ensure_ascii=False)
 
     # ---------------- Flatten and count cities per movie -----------------
-    movies_flat = {}
-    movie_city_count = {}
+# ---------------- Flatten and count cities per movie & variant -----------------
+movies_flat = {}
+movie_city_count = {}
+variant_city_count = {}
 
-    for city, movies in all_movies.items():
-        for movie_name, details in movies.items():
-            if movie_name not in movies_flat:
-                movies_flat[movie_name] = {
-                    "Title": details.get("Title"),
-                    "Poster": details.get("Poster"),
-                    "Genres": details.get("Genres", []),
-                    "Rating": details.get("Rating"),
-                    "Duration": details.get("Duration"),
-                    "EventDate": details.get("EventDate"),
-                    "isNewEvent": details.get("isNewEvent"),
-                    "Variants": []
-                }
-                movie_city_count[movie_name] = set()
-            
+for city, movies in all_movies.items():
+    for movie_name, details in movies.items():
+        if movie_name not in movies_flat:
+            movies_flat[movie_name] = {
+                "Title": details.get("Title"),
+                "Poster": details.get("Poster"),
+                "Genres": details.get("Genres", []),
+                "Rating": details.get("Rating"),
+                "Duration": details.get("Duration"),
+                "EventDate": details.get("EventDate"),
+                "isNewEvent": details.get("isNewEvent"),
+                "Variants": []
+            }
+            movie_city_count[movie_name] = set()
+        
+        # Track cities for this movie
+        movie_city_count[movie_name].add(city)
+
+        # Track cities for each variant
+        for variant in details.get("Variants", []):
+            code = variant["EventCode"]
+            if code not in variant_city_count:
+                variant_city_count[code] = set()
+            variant_city_count[code].add(city)
+
             # Add variant details if not already present
-            for variant in details.get("Variants", []):
-                if variant not in movies_flat[movie_name]["Variants"]:
-                    movies_flat[movie_name]["Variants"].append(variant)
+            existing_codes = {v["EventCode"] for v in movies_flat[movie_name]["Variants"]}
+            if code not in existing_codes:
+                movies_flat[movie_name]["Variants"].append(variant)
 
-            # Track which cities this movie appears in
-            movie_city_count[movie_name].add(city)
+# Prepare the final sorted list of movies with city count included
+sorted_movies = sorted(
+    movies_flat.values(),
+    key=lambda x: len(movie_city_count[x["Title"]]),
+    reverse=True
+)
 
-    # Prepare the final sorted list of movies with city count included
-    sorted_movies = sorted(
-        movies_flat.values(),
-        key=lambda x: len(movie_city_count[x["Title"]]),
-        reverse=True
-    )
+# Add CityCount for movie and variants
+final_movies = []
+for movie in sorted_movies:
+    movie_name = movie["Title"]
 
-    # Add city count metadata before the Variants key
-    final_movies = []
-    for movie in sorted_movies:
-        movie_name = movie["Title"]
-        new_movie = {
-            "Title": movie["Title"],
-            "Poster": movie["Poster"],
-            "Genres": movie["Genres"],
-            "Rating": movie["Rating"],
-            "Duration": movie["Duration"],
-            "EventDate": movie["EventDate"],
-            "isNewEvent": movie["isNewEvent"],
-            "CityCount": len(movie_city_count[movie_name]),
-            "Variants": movie["Variants"]
-        }
-        final_movies.append(new_movie)
+    # Add city count to each variant
+    variants_with_count = []
+    for variant in movie["Variants"]:
+        code = variant["EventCode"]
+        variants_with_count.append({
+            **variant,
+            "CityCount": len(variant_city_count.get(code, []))
+        })
 
-    # Save sorted movies to JSON
-    with open("output/movies.json", "w", encoding="utf-8") as f:
-        json.dump(final_movies, f, indent=2, ensure_ascii=False)
+    # Sort variants by CityCount (descending)
+    variants_sorted = sorted(variants_with_count, key=lambda v: v["CityCount"], reverse=True)
 
-    print(f"🎉 Finished. Saved {len(final_movies)} unique movies with city count and {len(all_venues)} unique venues.")
+    new_movie = {
+        "Title": movie["Title"],
+        "Poster": movie["Poster"],
+        "Genres": movie["Genres"],
+        "Rating": movie["Rating"],
+        "Duration": movie["Duration"],
+        "EventDate": movie["EventDate"],
+        "isNewEvent": movie["isNewEvent"],
+        "CityCount": len(movie_city_count[movie_name]),
+        "Variants": variants_sorted
+    }
+    final_movies.append(new_movie)
+
+# Save sorted movies to JSON
+with open("output/movies.json", "w", encoding="utf-8") as f:
+    json.dump(final_movies, f, indent=2, ensure_ascii=False)
+
+print(f"🎉 Finished. Saved {len(final_movies)} unique movies with city count & variants sorted by city coverage.")
