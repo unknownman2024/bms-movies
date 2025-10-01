@@ -239,6 +239,7 @@ for city, movies in all_movies.items():
                 "Duration": details.get("Duration"),
                 "EventDate": details.get("EventDate"),
                 "isNewEvent": details.get("isNewEvent"),
+                "DefaultEventCode": details.get("DefaultEventCode"),
                 "Variants": []
             }
             movie_city_count[movie_name] = set()
