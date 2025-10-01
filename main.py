@@ -78,7 +78,8 @@ def extract_movies(data):
         child_events = movie.get('ChildEvents', [])
         if not child_events:
             continue
-
+        # yahan se nikal lo default event code
+        default_event_code = movie.get("EventCode")
         first_variant = child_events[0]
         main_poster = f"https://in.bmscdn.com/events/moviecard/{first_variant.get('EventImageCode')}.jpg"
         main_genres = first_variant.get("Genre", [])
@@ -96,6 +97,7 @@ def extract_movies(data):
                 "Duration": main_duration,
                 "EventDate": main_event_date,
                 "isNewEvent": main_is_new,
+                "DefaultEventCode": default_event_code,   # <-- add this
                 "Variants": []
             }
 
@@ -267,6 +269,7 @@ sorted_movies = sorted(
 final_movies = []
 for movie in sorted_movies:
     movie_name = movie["Title"]
+    default_code = movie.get("DefaultEventCode")  # <-- har movie ka alag default
 
     # Add city count to each variant
     variants_with_count = []
@@ -277,8 +280,11 @@ for movie in sorted_movies:
             "CityCount": len(variant_city_count.get(code, []))
         })
 
-    # Sort variants by CityCount (descending)
-    variants_sorted = sorted(variants_with_count, key=lambda v: v["CityCount"], reverse=True)
+    # Custom sort: default variant first, then by CityCount desc
+    variants_sorted = sorted(
+        variants_with_count,
+        key=lambda v: (0 if v["EventCode"] == default_code else 1, -v["CityCount"])
+    )
 
     new_movie = {
         "Title": movie["Title"],
@@ -289,6 +295,7 @@ for movie in sorted_movies:
         "EventDate": movie["EventDate"],
         "isNewEvent": movie["isNewEvent"],
         "CityCount": len(movie_city_count[movie_name]),
+        "DefaultEventCode": default_code,   # <-- output me bhi rakh sakte ho
         "Variants": variants_sorted
     }
     final_movies.append(new_movie)
