@@ -14,24 +14,31 @@ NEW_POSTER = "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xla
 
 # ================= HELPERS =================
 
-def normalize(title: str) -> str:
+def normalize(title: str):
     t = title.lower()
     t = re.sub(r"\([^)]*\)", "", t)
     t = re.sub(r"[^a-z0-9]+", "", t)
     return t.strip()
 
 
-def fix_poster(url):
+def fix_poster(url, title=None):
+
     if not url:
         return None
 
+    # Convert old poster domain
     if url.startswith(OLD_POSTER):
-        return url.replace(OLD_POSTER, NEW_POSTER)
+        url = url.replace(OLD_POSTER, NEW_POSTER)
+
+    # Special case for Dhurandhar The Revenge
+    if title and title.lower() == "dhurandhar the revenge":
+        url = url.replace("/xlarge/", "/xxlarge/")
 
     return url
 
 
 def score(m):
+
     s = 0
     if m.get("Poster"): s += 2
     if m.get("Genres"): s += 2
@@ -69,7 +76,7 @@ def main():
         merged[key] = {
             "Title": m["Title"],
             "Poster": m.get("Poster"),
-            "New Poster": fix_poster(m.get("Poster")),
+            "New Poster": fix_poster(m.get("Poster"), m.get("Title")),
             "Genres": set(m.get("Genres", [])),
             "Rating": m.get("Rating"),
             "Duration": m.get("Duration"),
@@ -94,7 +101,7 @@ def main():
             merged[key] = {
                 "Title": title,
                 "Poster": m.get("Poster"),
-                "New Poster": fix_poster(m.get("Poster")),
+                "New Poster": fix_poster(m.get("Poster"), title),
                 "Genres": set(m.get("Genres", [])),
                 "Rating": m.get("Rating"),
                 "Duration": m.get("Duration"),
@@ -117,7 +124,7 @@ def main():
         # Poster
         if not cur["Poster"] and m.get("Poster"):
             cur["Poster"] = m["Poster"]
-            cur["New Poster"] = fix_poster(m["Poster"])
+            cur["New Poster"] = fix_poster(m["Poster"], title)
 
         # Genres
         cur["Genres"].update(m.get("Genres", []))
