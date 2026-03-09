@@ -26,13 +26,13 @@ def fix_poster(url, title=None):
     if not url:
         return None
 
+    # Force custom poster for Dhurandhar The Revenge
+    if title and title.lower() == "dhurandhar the revenge":
+        return "https://bfilmy.pages.dev/images/d2.jpg"
+
     # Convert old poster domain
     if url.startswith(OLD_POSTER):
         url = url.replace(OLD_POSTER, NEW_POSTER)
-
-    # Special case for Dhurandhar The Revenge
-    if title and title.lower() == "dhurandhar the revenge":
-        url = url.replace("/xlarge/", "/xxlarge/")
 
     return url
 
