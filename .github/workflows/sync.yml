@@ -18,6 +18,10 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Install dependencies
+        run: |
+          pip install requests tqdm
+
       - name: Run sync
         run: |
           python sync_movies.py
