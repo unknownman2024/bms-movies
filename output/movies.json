@@ -11,7 +11,7 @@
     "Duration": "2 hrs 30 mins",
     "EventDate": "2026-10-02",
     "isNewEvent": "Y",
-    "CityCount": 236,
+    "CityCount": 245,
     "DefaultEventCode": "ET00477911",
     "Variants": [
       {
@@ -19,7 +19,7 @@
         "EventCode": "ET00477911",
         "Language": "Hindi",
         "Format": "2D",
-        "CityCount": 236
+        "CityCount": 245
       },
       {
         "VariantName": "Drishyam The Conclusion (IMAX 2D)",
@@ -49,7 +49,7 @@
     "Duration": "2 hrs 30 mins",
     "EventDate": "2026-08-07",
     "isNewEvent": "N",
-    "CityCount": 156,
+    "CityCount": 163,
     "DefaultEventCode": "ET00507738",
     "Variants": [
       {
@@ -57,14 +57,14 @@
         "EventCode": "ET00507738",
         "Language": "Hindi",
         "Format": "2D",
-        "CityCount": 135
+        "CityCount": 132
       },
       {
         "VariantName": "Hanuman Ansh (Telugu)",
         "EventCode": "ET00520716",
         "Language": "Telugu",
         "Format": "2D",
-        "CityCount": 27
+        "CityCount": 39
       },
       {
         "VariantName": "Hanuman Ansh (EPIQ)(Telugu)",
@@ -89,7 +89,7 @@
     "Duration": "2 hrs 17 mins",
     "EventDate": "2026-09-25",
     "isNewEvent": "N",
-    "CityCount": 140,
+    "CityCount": 129,
     "DefaultEventCode": "ET00444235",
     "Variants": [
       {
@@ -97,7 +97,7 @@
         "EventCode": "ET00444235",
         "Language": "Hindi",
         "Format": "2D",
-        "CityCount": 140
+        "CityCount": 129
       }
     ]
   },
@@ -115,7 +115,7 @@
     "Duration": "1 hr 41 mins",
     "EventDate": "2026-10-02",
     "isNewEvent": "Y",
-    "CityCount": 96,
+    "CityCount": 103,
     "DefaultEventCode": "ET00507337",
     "Variants": [
       {
@@ -123,14 +123,14 @@
         "EventCode": "ET00507337",
         "Language": "Hindi",
         "Format": "2D",
-        "CityCount": 73
+        "CityCount": 80
       },
       {
         "VariantName": "Doraemon: Castle of the Undersea Devil (Tamil)",
         "EventCode": "ET00516268",
         "Language": "Tamil",
         "Format": "2D",
-        "CityCount": 16
+        "CityCount": 17
       },
       {
         "VariantName": "Doraemon: Castle of the Undersea Devil (4DX)(Hindi)",
@@ -144,7 +144,7 @@
         "EventCode": "ET00516269",
         "Language": "Telugu",
         "Format": "2D",
-        "CityCount": 13
+        "CityCount": 12
       },
       {
         "VariantName": "Doraemon: Castle of the Undersea Devil (MX4D)(Hindi)",
@@ -154,41 +154,55 @@
         "CityCount": 2
       },
       {
-        "VariantName": "Doraemon: Castle of the Undersea Devil (EPIQ)(Telugu)",
-        "EventCode": "ET00520474",
-        "Language": "Telugu",
-        "Format": "EPIQ",
-        "CityCount": 1
-      },
-      {
         "VariantName": "Doraemon: Castle of the Undersea Devil (4DX)(Telugu)",
         "EventCode": "ET00520146",
         "Language": "Telugu",
         "Format": "4DX",
         "CityCount": 1
+      },
+      {
+        "VariantName": "Doraemon: Castle of the Undersea Devil (EPIQ)(Telugu)",
+        "EventCode": "ET00520474",
+        "Language": "Telugu",
+        "Format": "EPIQ",
+        "CityCount": 1
       }
     ]
   },
   {
-    "Title": "Prem Keetanu",
-    "Poster": "https://in.bmscdn.com/events/moviecard/prem-keetanu-et00512226-1787726019.jpg",
+    "Title": "Other Mommy",
+    "Poster": "https://in.bmscdn.com/events/moviecard/other-mommy-et00506964-1789730341.jpg",
     "Genres": [
-      "Comedy",
-      "Romantic"
+      "Horror",
+      "Thriller"
     ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 18 mins",
-    "EventDate": "2026-10-02",
+    "Rating": "A",
+    "Duration": "-",
+    "EventDate": "2026-10-09",
     "isNewEvent": "Y",
     "CityCount": 85,
-    "DefaultEventCode": "ET00512226",
+    "DefaultEventCode": "ET00506964",
     "Variants": [
       {
-        "VariantName": "Prem Keetanu",
-        "EventCode": "ET00512226",
-        "Language": "Hindi",
+        "VariantName": "Other Mommy",
+        "EventCode": "ET00506964",
+        "Language": "English",
         "Format": "2D",
         "CityCount": 85
+      },
+      {
+        "VariantName": "Other Mommy (4DX)",
+        "EventCode": "ET00521282",
+        "Language": "English",
+        "Format": "4DX",
+        "CityCount": 14
+      },
+      {
+        "VariantName": "Other Mommy (MX4D)",
+        "EventCode": "ET00521364",
+        "Language": "English",
+        "Format": "MX4D",
+        "CityCount": 2
       }
     ]
   },
@@ -204,7 +218,7 @@
     "Duration": "2 hrs 54 mins",
     "EventDate": "2026-09-24",
     "isNewEvent": "N",
-    "CityCount": 74,
+    "CityCount": 69,
     "DefaultEventCode": "ET00436621",
     "Variants": [
       {
@@ -212,14 +226,45 @@
         "EventCode": "ET00436621",
         "Language": "Telugu",
         "Format": "2D",
-        "CityCount": 46
+        "CityCount": 45
       },
       {
         "VariantName": "The Paradise (Hindi)",
         "EventCode": "ET00436631",
         "Language": "Hindi",
         "Format": "2D",
-        "CityCount": 29
+        "CityCount": 25
+      }
+    ]
+  },
+  {
+    "Title": "The Social Reckoning",
+    "Poster": "https://in.bmscdn.com/events/moviecard/the-social-reckoning-et00506449-1790771510.jpg",
+    "Genres": [
+      "Biography",
+      "Drama",
+      "Thriller"
+    ],
+    "Rating": "A",
+    "Duration": "1 hr 55 mins",
+    "EventDate": "2026-10-09",
+    "isNewEvent": "Y",
+    "CityCount": 68,
+    "DefaultEventCode": "ET00506449",
+    "Variants": [
+      {
+        "VariantName": "The Social Reckoning",
+        "EventCode": "ET00506449",
+        "Language": "English",
+        "Format": "2D",
+        "CityCount": 68
+      },
+      {
+        "VariantName": "The Social Reckoning (DOLBY CINEMA 2D)",
+        "EventCode": "ET00521246",
+        "Language": "English",
+        "Format": "DOLBY CINEMA 2D",
+        "CityCount": 3
       }
     ]
   },
@@ -234,7 +279,7 @@
     "Duration": "2 hrs 39 mins",
     "EventDate": "2026-10-01",
     "isNewEvent": "Y",
-    "CityCount": 59,
+    "CityCount": 60,
     "DefaultEventCode": "ET00515520",
     "Variants": [
       {
@@ -242,46 +287,14 @@
         "EventCode": "ET00515520",
         "Language": "Tamil",
         "Format": "2D",
-        "CityCount": 59
+        "CityCount": 60
       },
       {
         "VariantName": "Baththa (EPIQ)",
         "EventCode": "ET00519263",
         "Language": "Tamil",
         "Format": "EPIQ",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Sigma",
-    "Poster": "https://in.bmscdn.com/events/moviecard/sigma-et00506233-1783331644.jpg",
-    "Genres": [
-      "Action",
-      "Adventure",
-      "Crime",
-      "Drama"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 26 mins",
-    "EventDate": "2026-10-02",
-    "isNewEvent": "Y",
-    "CityCount": 58,
-    "DefaultEventCode": "ET00506232",
-    "Variants": [
-      {
-        "VariantName": "Sigma",
-        "EventCode": "ET00506232",
-        "Language": "Tamil",
-        "Format": "2D",
-        "CityCount": 31
-      },
-      {
-        "VariantName": "Sigma (Telugu)",
-        "EventCode": "ET00506233",
-        "Language": "Telugu",
-        "Format": "2D",
-        "CityCount": 29
+        "CityCount": 3
       }
     ]
   },
@@ -299,7 +312,7 @@
     "Duration": "1 hr 59 mins",
     "EventDate": "2026-10-02",
     "isNewEvent": "Y",
-    "CityCount": 56,
+    "CityCount": 53,
     "DefaultEventCode": "ET00497246",
     "Variants": [
       {
@@ -307,7 +320,7 @@
         "EventCode": "ET00497246",
         "Language": "English",
         "Format": "2D",
-        "CityCount": 55
+        "CityCount": 52
       },
       {
         "VariantName": "Verity (4DX)",
@@ -321,125 +334,99 @@
         "EventCode": "ET00519666",
         "Language": "English",
         "Format": "DOLBY CINEMA 2D",
-        "CityCount": 3
-      }
-    ]
-  },
-  {
-    "Title": "The Social Reckoning",
-    "Poster": "https://in.bmscdn.com/events/moviecard/the-social-reckoning-et00506449-1790771510.jpg",
-    "Genres": [
-      "Biography",
-      "Drama",
-      "Thriller"
-    ],
-    "Rating": "A",
-    "Duration": "1 hr 55 mins",
-    "EventDate": "2026-10-09",
-    "isNewEvent": "Y",
-    "CityCount": 56,
-    "DefaultEventCode": "ET00506449",
-    "Variants": [
-      {
-        "VariantName": "The Social Reckoning",
-        "EventCode": "ET00506449",
-        "Language": "English",
-        "Format": "2D",
-        "CityCount": 56
-      },
-      {
-        "VariantName": "The Social Reckoning (DOLBY CINEMA 2D)",
-        "EventCode": "ET00521246",
-        "Language": "English",
-        "Format": "DOLBY CINEMA 2D",
-        "CityCount": 3
-      }
-    ]
-  },
-  {
-    "Title": "Other Mommy",
-    "Poster": "https://in.bmscdn.com/events/moviecard/other-mommy-et00506964-1789730341.jpg",
-    "Genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "Rating": "A",
-    "Duration": "-",
-    "EventDate": "2026-10-09",
-    "isNewEvent": "Y",
-    "CityCount": 55,
-    "DefaultEventCode": "ET00506964",
-    "Variants": [
-      {
-        "VariantName": "Other Mommy",
-        "EventCode": "ET00506964",
-        "Language": "English",
-        "Format": "2D",
-        "CityCount": 54
-      },
-      {
-        "VariantName": "Other Mommy (4DX)",
-        "EventCode": "ET00521282",
-        "Language": "English",
-        "Format": "4DX",
-        "CityCount": 12
-      },
-      {
-        "VariantName": "Other Mommy (MX4D)",
-        "EventCode": "ET00521364",
-        "Language": "English",
-        "Format": "MX4D",
         "CityCount": 2
       }
     ]
   },
   {
-    "Title": "Digger",
-    "Poster": "https://in.bmscdn.com/events/moviecard/digger-et00477243-1788939802.jpg",
+    "Title": "Sigma",
+    "Poster": "https://in.bmscdn.com/events/moviecard/sigma-et00506232-1783331637.jpg",
     "Genres": [
-      "Comedy",
+      "Action",
+      "Adventure",
+      "Crime",
       "Drama"
     ],
-    "Rating": "A",
-    "Duration": "2 hrs 11 mins",
+    "Rating": "UA16",
+    "Duration": "2 hrs 26 mins",
     "EventDate": "2026-10-02",
     "isNewEvent": "Y",
-    "CityCount": 48,
-    "DefaultEventCode": "ET00477243",
+    "CityCount": 50,
+    "DefaultEventCode": "ET00506232",
     "Variants": [
       {
-        "VariantName": "Digger",
-        "EventCode": "ET00477243",
-        "Language": "English",
+        "VariantName": "Sigma",
+        "EventCode": "ET00506232",
+        "Language": "Tamil",
         "Format": "2D",
-        "CityCount": 47
+        "CityCount": 25
       },
       {
-        "VariantName": "Digger (IMAX 2D)",
-        "EventCode": "ET00519264",
-        "Language": "English",
-        "Format": "IMAX 2D",
-        "CityCount": 11
+        "VariantName": "Sigma (Telugu)",
+        "EventCode": "ET00506233",
+        "Language": "Telugu",
+        "Format": "2D",
+        "CityCount": 27
+      }
+    ]
+  },
+  {
+    "Title": "Comrade Kalyan",
+    "Poster": "https://in.bmscdn.com/events/moviecard/comrade-kalyan-et00519564-1790596009.jpg",
+    "Genres": [
+      "Comedy",
+      "Period",
+      "Romantic"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 25 mins",
+    "EventDate": "2026-10-09",
+    "isNewEvent": "Y",
+    "CityCount": 49,
+    "DefaultEventCode": "ET00519564",
+    "Variants": [
+      {
+        "VariantName": "Comrade Kalyan",
+        "EventCode": "ET00519564",
+        "Language": "Telugu",
+        "Format": "2D",
+        "CityCount": 49
       },
       {
-        "VariantName": "Digger (ICE)",
-        "EventCode": "ET00519869",
-        "Language": "English",
-        "Format": "ICE",
-        "CityCount": 3
-      },
-      {
-        "VariantName": "Digger (MX4D)",
-        "EventCode": "ET00519914",
-        "Language": "English",
-        "Format": "MX4D",
+        "VariantName": "Comrade Kalyan (EPIQ)",
+        "EventCode": "ET00521154",
+        "Language": "Telugu",
+        "Format": "EPIQ",
         "CityCount": 1
       }
     ]
   },
   {
+    "Title": "Prem Keetanu",
+    "Poster": "https://in.bmscdn.com/events/moviecard/prem-keetanu-et00512226-1787726019.jpg",
+    "Genres": [
+      "Comedy",
+      "Romantic"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 18 mins",
+    "EventDate": "2026-10-02",
+    "isNewEvent": "Y",
+    "CityCount": 43,
+    "DefaultEventCode": "ET00512226",
+    "Variants": [
+      {
+        "VariantName": "Prem Keetanu",
+        "EventCode": "ET00512226",
+        "Language": "Hindi",
+        "Format": "2D",
+        "CityCount": 43
+      }
+    ]
+  },
+  {
     "Title": "Avengers Endgame: Encore",
-    "Poster": "https://in.bmscdn.com/events/moviecard/avengers-endgame-encore-et00516728-1789059722.jpg",
+    "Poster": "https://in.bmscdn.com/events/moviecard/avengers-endgame-encore-et00517346-1789452397.jpg",
     "Genres": [
       "Action",
       "Adventure",
@@ -449,7 +436,7 @@
     "Duration": "3 hrs 10 mins",
     "EventDate": "2026-09-25",
     "isNewEvent": "N",
-    "CityCount": 47,
+    "CityCount": 39,
     "DefaultEventCode": "ET00514163",
     "Variants": [
       {
@@ -464,21 +451,21 @@
         "EventCode": "ET00516731",
         "Language": "English",
         "Format": "3D",
-        "CityCount": 19
+        "CityCount": 15
       },
       {
         "VariantName": "Avengers Endgame: Encore (3D)(Hindi)",
         "EventCode": "ET00517726",
         "Language": "Hindi",
         "Format": "3D",
-        "CityCount": 15
+        "CityCount": 12
       },
       {
         "VariantName": "Avengers Endgame: Encore (MS-Infinity Vsn 3D)",
         "EventCode": "ET00516728",
         "Language": "English",
         "Format": "MS-Infinity Vsn 3d",
-        "CityCount": 13
+        "CityCount": 10
       },
       {
         "VariantName": "Avengers Endgame: Encore (IMAX 2D)",
@@ -492,14 +479,7 @@
         "EventCode": "ET00518010",
         "Language": "Tamil",
         "Format": "3D",
-        "CityCount": 9
-      },
-      {
-        "VariantName": "Avengers Endgame: Encore (4DX 3D)",
-        "EventCode": "ET00516729",
-        "Language": "English",
-        "Format": "4DX 3D",
-        "CityCount": 7
+        "CityCount": 8
       },
       {
         "VariantName": "Avengers Endgame: Encore (3D SCREEN X)",
@@ -509,11 +489,18 @@
         "CityCount": 7
       },
       {
+        "VariantName": "Avengers Endgame: Encore (4DX 3D)",
+        "EventCode": "ET00516729",
+        "Language": "English",
+        "Format": "4DX 3D",
+        "CityCount": 7
+      },
+      {
         "VariantName": "Avengers Endgame: Encore (MS - Infinity Vision)",
         "EventCode": "ET00516224",
         "Language": "English",
         "Format": "MS - Infinity Vision",
-        "CityCount": 4
+        "CityCount": 5
       },
       {
         "VariantName": "Avengers Endgame: Encore (EPIQ 3D)",
@@ -523,24 +510,17 @@
         "CityCount": 4
       },
       {
-        "VariantName": "Avengers Endgame: Encore (Hindi)",
-        "EventCode": "ET00514533",
-        "Language": "Hindi",
-        "Format": "2D",
-        "CityCount": 3
-      },
-      {
-        "VariantName": "Avengers Endgame: Encore (ICE 3D)",
-        "EventCode": "ET00516901",
-        "Language": "English",
-        "Format": "ICE 3D",
-        "CityCount": 2
-      },
-      {
         "VariantName": "Avengers Endgame: Encore (4DX)",
         "EventCode": "ET00516733",
         "Language": "English",
         "Format": "4DX",
+        "CityCount": 2
+      },
+      {
+        "VariantName": "Avengers Endgame: Encore (Hindi)",
+        "EventCode": "ET00514533",
+        "Language": "Hindi",
+        "Format": "2D",
         "CityCount": 2
       },
       {
@@ -551,13 +531,6 @@
         "CityCount": 1
       },
       {
-        "VariantName": "Avengers Endgame: Encore (EPIQ 3D)(Tamil)",
-        "EventCode": "ET00517347",
-        "Language": "Tamil",
-        "Format": "EPIQ 3D",
-        "CityCount": 1
-      },
-      {
         "VariantName": "Avengers Endgame: Encore (4DX 3D)(Hindi)",
         "EventCode": "ET00518867",
         "Language": "Hindi",
@@ -565,101 +538,11 @@
         "CityCount": 1
       },
       {
-        "VariantName": "Avengers Endgame: Encore (Tamil)",
-        "EventCode": "ET00514534",
-        "Language": "Tamil",
-        "Format": "2D",
+        "VariantName": "Avengers Endgame: Encore (ICE 3D)",
+        "EventCode": "ET00516901",
+        "Language": "English",
+        "Format": "ICE 3D",
         "CityCount": 1
-      },
-      {
-        "VariantName": "Avengers Endgame: Encore (MX4D)(3D)(Hindi)",
-        "EventCode": "ET00519042",
-        "Language": "Hindi",
-        "Format": "MX4D 3D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Heart of the Beast",
-    "Poster": "https://in.bmscdn.com/events/moviecard/heart-of-the-beast-et00504928-1782473655.jpg",
-    "Genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Thriller"
-    ],
-    "Rating": "UA16",
-    "Duration": "1 hr 45 mins",
-    "EventDate": "2026-09-25",
-    "isNewEvent": "N",
-    "CityCount": 42,
-    "DefaultEventCode": "ET00504928",
-    "Variants": [
-      {
-        "VariantName": "Heart of the Beast",
-        "EventCode": "ET00504928",
-        "Language": "English",
-        "Format": "2D",
-        "CityCount": 41
-      },
-      {
-        "VariantName": "Heart of the Beast (4DX)",
-        "EventCode": "ET00518793",
-        "Language": "English",
-        "Format": "4DX",
-        "CityCount": 9
-      },
-      {
-        "VariantName": "Heart of the Beast (MX4D)",
-        "EventCode": "ET00518871",
-        "Language": "English",
-        "Format": "MX4D",
-        "CityCount": 2
-      },
-      {
-        "VariantName": "Heart of the Beast (DOLBY CINEMA 2D)",
-        "EventCode": "ET00518866",
-        "Language": "English",
-        "Format": "DOLBY CINEMA 2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Don't Trouble The Trouble",
-    "Poster": "https://in.bmscdn.com/events/moviecard/don-t-trouble-the-trouble-et00514646-1790075505.jpg",
-    "Genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "Rating": "UA13",
-    "Duration": "2 hrs 38 mins",
-    "EventDate": "2026-10-02",
-    "isNewEvent": "Y",
-    "CityCount": 40,
-    "DefaultEventCode": "ET00514646",
-    "Variants": [
-      {
-        "VariantName": "Don't Trouble The Trouble",
-        "EventCode": "ET00514646",
-        "Language": "Telugu",
-        "Format": "2D",
-        "CityCount": 25
-      },
-      {
-        "VariantName": "Don't Trouble The Trouble (Malayalam)",
-        "EventCode": "ET00518496",
-        "Language": "Malayalam",
-        "Format": "2D",
-        "CityCount": 15
-      },
-      {
-        "VariantName": "Don't Trouble The Trouble (Tamil)",
-        "EventCode": "ET00518504",
-        "Language": "Tamil",
-        "Format": "2D",
-        "CityCount": 4
       }
     ]
   },
@@ -684,13 +567,145 @@
         "Language": "Telugu",
         "Format": "2D",
         "CityCount": 38
+      }
+    ]
+  },
+  {
+    "Title": "Digger",
+    "Poster": "https://in.bmscdn.com/events/moviecard/digger-et00477243-1788939802.jpg",
+    "Genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "Rating": "A",
+    "Duration": "2 hrs 11 mins",
+    "EventDate": "2026-10-02",
+    "isNewEvent": "Y",
+    "CityCount": 37,
+    "DefaultEventCode": "ET00477243",
+    "Variants": [
+      {
+        "VariantName": "Digger",
+        "EventCode": "ET00477243",
+        "Language": "English",
+        "Format": "2D",
+        "CityCount": 36
       },
       {
-        "VariantName": "Thella Kaagitham (EPIQ)",
-        "EventCode": "ET00520843",
-        "Language": "Telugu",
-        "Format": "EPIQ",
+        "VariantName": "Digger (IMAX 2D)",
+        "EventCode": "ET00519264",
+        "Language": "English",
+        "Format": "IMAX 2D",
+        "CityCount": 10
+      },
+      {
+        "VariantName": "Digger (ICE)",
+        "EventCode": "ET00519869",
+        "Language": "English",
+        "Format": "ICE",
+        "CityCount": 2
+      },
+      {
+        "VariantName": "Digger (MX4D)",
+        "EventCode": "ET00519914",
+        "Language": "English",
+        "Format": "MX4D",
         "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Heart of the Beast",
+    "Poster": "https://in.bmscdn.com/events/moviecard/heart-of-the-beast-et00504928-1782473655.jpg",
+    "Genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "Rating": "UA16",
+    "Duration": "1 hr 45 mins",
+    "EventDate": "2026-09-25",
+    "isNewEvent": "N",
+    "CityCount": 37,
+    "DefaultEventCode": "ET00504928",
+    "Variants": [
+      {
+        "VariantName": "Heart of the Beast",
+        "EventCode": "ET00504928",
+        "Language": "English",
+        "Format": "2D",
+        "CityCount": 36
+      },
+      {
+        "VariantName": "Heart of the Beast (4DX)",
+        "EventCode": "ET00518793",
+        "Language": "English",
+        "Format": "4DX",
+        "CityCount": 8
+      },
+      {
+        "VariantName": "Heart of the Beast (MX4D)",
+        "EventCode": "ET00518871",
+        "Language": "English",
+        "Format": "MX4D",
+        "CityCount": 2
+      },
+      {
+        "VariantName": "Heart of the Beast (DOLBY CINEMA 2D)",
+        "EventCode": "ET00518866",
+        "Language": "English",
+        "Format": "DOLBY CINEMA 2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Dorothy",
+    "Poster": "https://in.bmscdn.com/events/moviecard/dorothy-et00518039-1789816008.jpg",
+    "Genres": [
+      "Adventure",
+      "Crime",
+      "Drama",
+      "Romantic"
+    ],
+    "Rating": "A",
+    "Duration": "2 hrs 26 mins",
+    "EventDate": "2026-09-25",
+    "isNewEvent": "N",
+    "CityCount": 35,
+    "DefaultEventCode": "ET00518039",
+    "Variants": [
+      {
+        "VariantName": "Dorothy",
+        "EventCode": "ET00518039",
+        "Language": "Tamil",
+        "Format": "2D",
+        "CityCount": 35
+      }
+    ]
+  },
+  {
+    "Title": "Anbil Avan",
+    "Poster": "https://in.bmscdn.com/events/moviecard/anbil-avan-et00518059-1789977312.jpg",
+    "Genres": [
+      "Action",
+      "Drama",
+      "Romantic"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 37 mins",
+    "EventDate": "2026-10-02",
+    "isNewEvent": "Y",
+    "CityCount": 34,
+    "DefaultEventCode": "ET00518059",
+    "Variants": [
+      {
+        "VariantName": "Anbil Avan",
+        "EventCode": "ET00518059",
+        "Language": "Tamil",
+        "Format": "2D",
+        "CityCount": 34
       }
     ]
   },
@@ -718,31 +733,6 @@
     ]
   },
   {
-    "Title": "Dorothy",
-    "Poster": "https://in.bmscdn.com/events/moviecard/dorothy-et00518039-1789816008.jpg",
-    "Genres": [
-      "Adventure",
-      "Crime",
-      "Drama",
-      "Romantic"
-    ],
-    "Rating": "A",
-    "Duration": "2 hrs 26 mins",
-    "EventDate": "2026-09-25",
-    "isNewEvent": "N",
-    "CityCount": 34,
-    "DefaultEventCode": "ET00518039",
-    "Variants": [
-      {
-        "VariantName": "Dorothy",
-        "EventCode": "ET00518039",
-        "Language": "Tamil",
-        "Format": "2D",
-        "CityCount": 34
-      }
-    ]
-  },
-  {
     "Title": "Avaraachan & Sons",
     "Poster": "https://in.bmscdn.com/events/moviecard/avarachan-and-sons-et00507359-1783938396.jpg",
     "Genres": [
@@ -754,37 +744,13 @@
     "Duration": "2 hrs 14 mins",
     "EventDate": "2026-10-02",
     "isNewEvent": "Y",
-    "CityCount": 34,
+    "CityCount": 33,
     "DefaultEventCode": "ET00507359",
     "Variants": [
       {
         "VariantName": "Avaraachan & Sons",
         "EventCode": "ET00507359",
         "Language": "Malayalam",
-        "Format": "2D",
-        "CityCount": 34
-      }
-    ]
-  },
-  {
-    "Title": "Anbil Avan",
-    "Poster": "https://in.bmscdn.com/events/moviecard/anbil-avan-et00518059-1789977312.jpg",
-    "Genres": [
-      "Action",
-      "Drama",
-      "Romantic"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 37 mins",
-    "EventDate": "2026-10-02",
-    "isNewEvent": "Y",
-    "CityCount": 33,
-    "DefaultEventCode": "ET00518059",
-    "Variants": [
-      {
-        "VariantName": "Anbil Avan",
-        "EventCode": "ET00518059",
-        "Language": "Tamil",
         "Format": "2D",
         "CityCount": 33
       }
@@ -835,55 +801,38 @@
     ]
   },
   {
-    "Title": "Meesaya Murukku 2",
-    "Poster": "https://in.bmscdn.com/events/moviecard/meesaya-murukku-2-et00516813-1789126976.jpg",
-    "Genres": [
-      "Drama",
-      "Musical"
-    ],
-    "Rating": "UA13",
-    "Duration": "2 hrs 19 mins",
-    "EventDate": "2026-09-25",
-    "isNewEvent": "N",
-    "CityCount": 27,
-    "DefaultEventCode": "ET00516813",
-    "Variants": [
-      {
-        "VariantName": "Meesaya Murukku 2",
-        "EventCode": "ET00516813",
-        "Language": "Tamil",
-        "Format": "2D",
-        "CityCount": 27
-      }
-    ]
-  },
-  {
-    "Title": "Comrade Kalyan",
-    "Poster": "https://in.bmscdn.com/events/moviecard/comrade-kalyan-et00519564-1790596009.jpg",
+    "Title": "Don't Trouble The Trouble",
+    "Poster": "https://in.bmscdn.com/events/moviecard/don-t-trouble-the-trouble-et00518496-1790075498.jpg",
     "Genres": [
       "Comedy",
-      "Period",
-      "Romantic"
+      "Fantasy"
     ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 25 mins",
-    "EventDate": "2026-10-09",
+    "Rating": "UA13",
+    "Duration": "2 hrs 38 mins",
+    "EventDate": "2026-10-02",
     "isNewEvent": "Y",
-    "CityCount": 25,
-    "DefaultEventCode": "ET00519564",
+    "CityCount": 29,
+    "DefaultEventCode": "ET00514646",
     "Variants": [
       {
-        "VariantName": "Comrade Kalyan",
-        "EventCode": "ET00519564",
+        "VariantName": "Don't Trouble The Trouble",
+        "EventCode": "ET00514646",
         "Language": "Telugu",
         "Format": "2D",
-        "CityCount": 25
+        "CityCount": 21
       },
       {
-        "VariantName": "Comrade Kalyan (EPIQ)",
-        "EventCode": "ET00521154",
-        "Language": "Telugu",
-        "Format": "EPIQ",
+        "VariantName": "Don't Trouble The Trouble (Malayalam)",
+        "EventCode": "ET00518496",
+        "Language": "Malayalam",
+        "Format": "2D",
+        "CityCount": 9
+      },
+      {
+        "VariantName": "Don't Trouble The Trouble (Tamil)",
+        "EventCode": "ET00518504",
+        "Language": "Tamil",
+        "Format": "2D",
         "CityCount": 1
       }
     ]
@@ -899,7 +848,7 @@
     "Duration": "2 hrs 35 mins",
     "EventDate": "2026-09-25",
     "isNewEvent": "N",
-    "CityCount": 25,
+    "CityCount": 28,
     "DefaultEventCode": "ET00412717",
     "Variants": [
       {
@@ -907,7 +856,7 @@
         "EventCode": "ET00412717",
         "Language": "Kannada",
         "Format": "2D",
-        "CityCount": 25
+        "CityCount": 28
       },
       {
         "VariantName": "Premada Oorali (DOLBY CINEMA 2D)",
@@ -915,6 +864,29 @@
         "Language": "Kannada",
         "Format": "DOLBY CINEMA 2D",
         "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Meesaya Murukku 2",
+    "Poster": "https://in.bmscdn.com/events/moviecard/meesaya-murukku-2-et00516813-1789126976.jpg",
+    "Genres": [
+      "Drama",
+      "Musical"
+    ],
+    "Rating": "UA13",
+    "Duration": "2 hrs 19 mins",
+    "EventDate": "2026-09-25",
+    "isNewEvent": "N",
+    "CityCount": 24,
+    "DefaultEventCode": "ET00516813",
+    "Variants": [
+      {
+        "VariantName": "Meesaya Murukku 2",
+        "EventCode": "ET00516813",
+        "Language": "Tamil",
+        "Format": "2D",
+        "CityCount": 24
       }
     ]
   },
@@ -930,7 +902,7 @@
     "Duration": "2 hrs 41 mins",
     "EventDate": "2026-09-11",
     "isNewEvent": "N",
-    "CityCount": 24,
+    "CityCount": 22,
     "DefaultEventCode": "ET00512696",
     "Variants": [
       {
@@ -938,85 +910,52 @@
         "EventCode": "ET00512696",
         "Language": "Malayalam",
         "Format": "2D",
-        "CityCount": 24
-      }
-    ]
-  },
-  {
-    "Title": "The Third Murder",
-    "Poster": "https://in.bmscdn.com/events/moviecard/the-third-murder-et00519754-1790679840.jpg",
-    "Genres": [
-      "Crime",
-      "Psychological",
-      "Thriller"
-    ],
-    "Rating": "UA",
-    "Duration": "2 hrs 4 mins",
-    "EventDate": "2026-10-02",
-    "isNewEvent": "Y",
-    "CityCount": 22,
-    "DefaultEventCode": "ET00519754",
-    "Variants": [
-      {
-        "VariantName": "The Third Murder",
-        "EventCode": "ET00519754",
-        "Language": "Malayalam",
-        "Format": "2D",
         "CityCount": 22
       }
     ]
   },
   {
-    "Title": "Mandaadi",
-    "Poster": "https://in.bmscdn.com/events/moviecard/mandaadi-et00442702-1789145092.jpg",
+    "Title": "Chakkora: Lunar Love Bird",
+    "Poster": "https://in.bmscdn.com/events/moviecard/chakkora-lunar-love-bird-et00521125-1791355867.jpg",
     "Genres": [
-      "Action",
-      "Drama",
-      "Sports"
+      "Drama"
     ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 34 mins",
-    "EventDate": "2026-09-10",
-    "isNewEvent": "N",
+    "Rating": "",
+    "Duration": "-",
+    "EventDate": "2026-10-08",
+    "isNewEvent": "Y",
     "CityCount": 21,
-    "DefaultEventCode": "ET00442702",
+    "DefaultEventCode": "ET00521125",
     "Variants": [
       {
-        "VariantName": "Mandaadi",
-        "EventCode": "ET00442702",
-        "Language": "Tamil",
+        "VariantName": "Chakkora: Lunar Love Bird",
+        "EventCode": "ET00521125",
+        "Language": "Telugu",
         "Format": "2D",
         "CityCount": 21
-      },
-      {
-        "VariantName": "Mandaadi (IMAX 2D)",
-        "EventCode": "ET00515682",
-        "Language": "Tamil",
-        "Format": "IMAX 2D",
-        "CityCount": 1
       }
     ]
   },
   {
-    "Title": "Yezhu Kadal Yezhu Malai",
-    "Poster": "https://in.bmscdn.com/events/moviecard/yezhu-kadal-yezhu-malai-et00342249-1788184305.jpg",
+    "Title": "Afratafri",
+    "Poster": "https://in.bmscdn.com/events/moviecard/afratafri-et00514241-1787740067.jpg",
     "Genres": [
-      "Drama",
-      "Fantasy"
+      "Comedy",
+      "Drama"
     ],
     "Rating": "UA16",
-    "Duration": "2 hrs 17 mins",
-    "EventDate": "2026-10-01",
+    "Duration": "2 hrs 5 mins",
+    "EventDate": "2026-10-09",
     "isNewEvent": "Y",
-    "CityCount": 21,
-    "DefaultEventCode": "ET00342249",
+    "CityCount": 20,
+    "DefaultEventCode": "ET00514241",
     "Variants": [
       {
-        "VariantName": "Yezhu Kadal Yezhu Malai",
-        "EventCode": "ET00342249",
-        "Language": "Tamil",
+        "VariantName": "Afratafri",
+        "EventCode": "ET00514241",
+        "Language": "Marathi",
         "Format": "2D",
-        "CityCount": 21
+        "CityCount": 20
       }
     ]
   },
@@ -1032,7 +971,7 @@
     "Duration": "2 hrs 2 mins",
     "EventDate": "2026-09-25",
     "isNewEvent": "N",
-    "CityCount": 20,
+    "CityCount": 19,
     "DefaultEventCode": "ET00516853",
     "Variants": [
       {
@@ -1040,7 +979,38 @@
         "EventCode": "ET00516853",
         "Language": "Malayalam",
         "Format": "2D",
-        "CityCount": 20
+        "CityCount": 19
+      }
+    ]
+  },
+  {
+    "Title": "Mandaadi",
+    "Poster": "https://in.bmscdn.com/events/moviecard/mandaadi-et00442702-1789145092.jpg",
+    "Genres": [
+      "Action",
+      "Drama",
+      "Sports"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 34 mins",
+    "EventDate": "2026-09-10",
+    "isNewEvent": "N",
+    "CityCount": 19,
+    "DefaultEventCode": "ET00442702",
+    "Variants": [
+      {
+        "VariantName": "Mandaadi",
+        "EventCode": "ET00442702",
+        "Language": "Tamil",
+        "Format": "2D",
+        "CityCount": 19
+      },
+      {
+        "VariantName": "Mandaadi (IMAX 2D)",
+        "EventCode": "ET00515682",
+        "Language": "Tamil",
+        "Format": "IMAX 2D",
+        "CityCount": 2
       }
     ]
   },
@@ -1069,8 +1039,78 @@
     ]
   },
   {
+    "Title": "Dhanushkodiyilekku",
+    "Poster": "https://in.bmscdn.com/events/moviecard/dhanushkodiyilekku-et00521126-1791355807.jpg",
+    "Genres": [
+      "Drama"
+    ],
+    "Rating": "UA13",
+    "Duration": "2 hrs 2 mins",
+    "EventDate": "2026-10-09",
+    "isNewEvent": "Y",
+    "CityCount": 18,
+    "DefaultEventCode": "ET00521126",
+    "Variants": [
+      {
+        "VariantName": "Dhanushkodiyilekku",
+        "EventCode": "ET00521126",
+        "Language": "Malayalam",
+        "Format": "2D",
+        "CityCount": 18
+      }
+    ]
+  },
+  {
+    "Title": "Beware Boiuna",
+    "Poster": "https://in.bmscdn.com/events/moviecard/beware-boina-et00515208-1788342013.jpg",
+    "Genres": [
+      "Action",
+      "Horror",
+      "Thriller"
+    ],
+    "Rating": "A",
+    "Duration": "1 hr 45 mins",
+    "EventDate": "2026-10-09",
+    "isNewEvent": "Y",
+    "CityCount": 18,
+    "DefaultEventCode": "ET00515208",
+    "Variants": [
+      {
+        "VariantName": "Beware Boiuna",
+        "EventCode": "ET00515208",
+        "Language": "English",
+        "Format": "2D",
+        "CityCount": 18
+      }
+    ]
+  },
+  {
+    "Title": "The Third Murder",
+    "Poster": "https://in.bmscdn.com/events/moviecard/the-third-murder-et00519754-1790679840.jpg",
+    "Genres": [
+      "Crime",
+      "Psychological",
+      "Thriller"
+    ],
+    "Rating": "UA",
+    "Duration": "2 hrs 4 mins",
+    "EventDate": "2026-10-02",
+    "isNewEvent": "Y",
+    "CityCount": 17,
+    "DefaultEventCode": "ET00519754",
+    "Variants": [
+      {
+        "VariantName": "The Third Murder",
+        "EventCode": "ET00519754",
+        "Language": "Malayalam",
+        "Format": "2D",
+        "CityCount": 17
+      }
+    ]
+  },
+  {
     "Title": "Resident Evil",
-    "Poster": "https://in.bmscdn.com/events/moviecard/resident-evil-et00498186-1788341160.jpg",
+    "Poster": "https://in.bmscdn.com/events/moviecard/resident-evil-et00498183-1788341144.jpg",
     "Genres": [
       "Action",
       "Horror",
@@ -1081,7 +1121,7 @@
     "Duration": "1 hr 34 mins",
     "EventDate": "2026-09-18",
     "isNewEvent": "N",
-    "CityCount": 19,
+    "CityCount": 17,
     "DefaultEventCode": "ET00498183",
     "Variants": [
       {
@@ -1089,7 +1129,7 @@
         "EventCode": "ET00498183",
         "Language": "English",
         "Format": "2D",
-        "CityCount": 14
+        "CityCount": 13
       },
       {
         "VariantName": "Resident Evil (Hindi)",
@@ -1106,40 +1146,41 @@
         "CityCount": 4
       },
       {
-        "VariantName": "Resident Evil (Tamil)",
-        "EventCode": "ET00498184",
-        "Language": "Tamil",
-        "Format": "2D",
-        "CityCount": 2
-      },
-      {
         "VariantName": "Resident Evil (MX4D)",
         "EventCode": "ET00517503",
         "Language": "English",
         "Format": "MX4D",
         "CityCount": 1
+      },
+      {
+        "VariantName": "Resident Evil (Tamil)",
+        "EventCode": "ET00498184",
+        "Language": "Tamil",
+        "Format": "2D",
+        "CityCount": 1
       }
     ]
   },
   {
-    "Title": "Chakkora: Lunar Love Bird",
-    "Poster": "https://in.bmscdn.com/events/moviecard/chakkora-lunar-love-bird-et00521125-1791355867.jpg",
+    "Title": "Chiram",
+    "Poster": "https://in.bmscdn.com/events/moviecard/chiram-et00516633-1789036028.jpg",
     "Genres": [
-      "Drama"
+      "Drama",
+      "Romantic"
     ],
-    "Rating": "",
-    "Duration": "-",
-    "EventDate": "2026-10-08",
+    "Rating": "U",
+    "Duration": "1 hr 49 mins",
+    "EventDate": "2026-10-09",
     "isNewEvent": "Y",
-    "CityCount": 17,
-    "DefaultEventCode": "ET00521125",
+    "CityCount": 16,
+    "DefaultEventCode": "ET00516633",
     "Variants": [
       {
-        "VariantName": "Chakkora: Lunar Love Bird",
-        "EventCode": "ET00521125",
-        "Language": "Telugu",
+        "VariantName": "Chiram",
+        "EventCode": "ET00516633",
+        "Language": "Malayalam",
         "Format": "2D",
-        "CityCount": 17
+        "CityCount": 16
       }
     ]
   },
@@ -1167,6 +1208,29 @@
     ]
   },
   {
+    "Title": "Randu Rahasyangal",
+    "Poster": "https://in.bmscdn.com/events/moviecard/randu-rahasyangal-et00521158-1791361263.jpg",
+    "Genres": [
+      "Action",
+      "Thriller"
+    ],
+    "Rating": "UA16",
+    "Duration": "1 hr 42 mins",
+    "EventDate": "2026-10-09",
+    "isNewEvent": "Y",
+    "CityCount": 15,
+    "DefaultEventCode": "ET00521158",
+    "Variants": [
+      {
+        "VariantName": "Randu Rahasyangal",
+        "EventCode": "ET00521158",
+        "Language": "Malayalam",
+        "Format": "2D",
+        "CityCount": 15
+      }
+    ]
+  },
+  {
     "Title": "Bethlehem Kudumba Unit",
     "Poster": "https://in.bmscdn.com/events/moviecard/bethlehem-kudumba-unit-et00502829-1788413826.jpg",
     "Genres": [
@@ -1178,7 +1242,7 @@
     "Duration": "2 hrs 37 mins",
     "EventDate": "2026-08-21",
     "isNewEvent": "N",
-    "CityCount": 15,
+    "CityCount": 14,
     "DefaultEventCode": "ET00502829",
     "Variants": [
       {
@@ -1186,7 +1250,7 @@
         "EventCode": "ET00502829",
         "Language": "Malayalam",
         "Format": "2D",
-        "CityCount": 13
+        "CityCount": 12
       },
       {
         "VariantName": "Bethlehem Kudumba Unit (Tamil)",
@@ -1194,30 +1258,6 @@
         "Language": "Tamil",
         "Format": "2D",
         "CityCount": 2
-      }
-    ]
-  },
-  {
-    "Title": "Beware Boiuna",
-    "Poster": "https://in.bmscdn.com/events/moviecard/beware-boina-et00515208-1788342013.jpg",
-    "Genres": [
-      "Action",
-      "Horror",
-      "Thriller"
-    ],
-    "Rating": "A",
-    "Duration": "1 hr 45 mins",
-    "EventDate": "2026-10-09",
-    "isNewEvent": "Y",
-    "CityCount": 15,
-    "DefaultEventCode": "ET00515208",
-    "Variants": [
-      {
-        "VariantName": "Beware Boiuna",
-        "EventCode": "ET00515208",
-        "Language": "English",
-        "Format": "2D",
-        "CityCount": 15
       }
     ]
   },
@@ -1254,6 +1294,51 @@
     ]
   },
   {
+    "Title": "Baa Baa Black Sheep",
+    "Poster": "https://in.bmscdn.com/events/moviecard/baa-baa-black-sheep-et00465242-1791179596.jpg",
+    "Genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "Rating": "UA13",
+    "Duration": "2 hrs 15 mins",
+    "EventDate": "2026-10-09",
+    "isNewEvent": "Y",
+    "CityCount": 14,
+    "DefaultEventCode": "ET00465242",
+    "Variants": [
+      {
+        "VariantName": "Baa Baa Black Sheep",
+        "EventCode": "ET00465242",
+        "Language": "Telugu",
+        "Format": "2D",
+        "CityCount": 14
+      }
+    ]
+  },
+  {
+    "Title": "Paach Futacha Bachchan",
+    "Poster": "https://in.bmscdn.com/events/moviecard/paach-futacha-bachchan-et00515070-1788265629.jpg",
+    "Genres": [
+      "Drama"
+    ],
+    "Rating": "UA13",
+    "Duration": "2 hrs 19 mins",
+    "EventDate": "2026-10-09",
+    "isNewEvent": "Y",
+    "CityCount": 12,
+    "DefaultEventCode": "ET00515070",
+    "Variants": [
+      {
+        "VariantName": "Paach Futacha Bachchan",
+        "EventCode": "ET00515070",
+        "Language": "Marathi",
+        "Format": "2D",
+        "CityCount": 12
+      }
+    ]
+  },
+  {
     "Title": "Anakapalli",
     "Poster": "https://in.bmscdn.com/events/moviecard/anakapalli-et00510088-1785493771.jpg",
     "Genres": [
@@ -1266,7 +1351,7 @@
     "Duration": "2 hrs 34 mins",
     "EventDate": "2026-10-02",
     "isNewEvent": "Y",
-    "CityCount": 13,
+    "CityCount": 12,
     "DefaultEventCode": "ET00510088",
     "Variants": [
       {
@@ -1274,76 +1359,128 @@
         "EventCode": "ET00510088",
         "Language": "Telugu",
         "Format": "2D",
-        "CityCount": 13
+        "CityCount": 12
       }
     ]
   },
   {
-    "Title": "Afratafri",
-    "Poster": "https://in.bmscdn.com/events/moviecard/afratafri-et00514241-1787740067.jpg",
+    "Title": "Oye Chill Maar",
+    "Poster": "https://in.bmscdn.com/events/moviecard/oye-chill-maar-et00514653-1788003046.jpg",
     "Genres": [
       "Comedy",
-      "Drama"
+      "Drama",
+      "Thriller"
     ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 5 mins",
-    "EventDate": "2026-10-09",
-    "isNewEvent": "Y",
-    "CityCount": 13,
-    "DefaultEventCode": "ET00514241",
+    "Rating": "A",
+    "Duration": "2 hrs 7 mins",
+    "EventDate": "2026-09-25",
+    "isNewEvent": "N",
+    "CityCount": 12,
+    "DefaultEventCode": "ET00514653",
     "Variants": [
       {
-        "VariantName": "Afratafri",
-        "EventCode": "ET00514241",
-        "Language": "Marathi",
+        "VariantName": "Oye Chill Maar",
+        "EventCode": "ET00514653",
+        "Language": "Hindi",
         "Format": "2D",
-        "CityCount": 13
+        "CityCount": 12
       }
     ]
   },
   {
-    "Title": "The Odyssey",
-    "Poster": "https://in.bmscdn.com/events/moviecard/ET00505787.jpg",
+    "Title": "Kitti",
+    "Poster": "https://in.bmscdn.com/events/moviecard/kitti-et00513897-1789034528.jpg",
     "Genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Fantasy"
+      "Psychological",
+      "Thriller"
     ],
-    "Rating": "A",
-    "Duration": "2 hrs 55 mins",
-    "EventDate": "2026-07-17",
-    "isNewEvent": "N",
-    "CityCount": 11,
-    "DefaultEventCode": "ET00452034",
+    "Rating": "UA16",
+    "Duration": "1 hr 59 mins",
+    "EventDate": "2026-10-09",
+    "isNewEvent": "Y",
+    "CityCount": 12,
+    "DefaultEventCode": "ET00513897",
     "Variants": [
       {
-        "VariantName": "The Odyssey",
-        "EventCode": "ET00452034",
-        "Language": "English",
+        "VariantName": "Kitti",
+        "EventCode": "ET00513897",
+        "Language": "Tamil",
         "Format": "2D",
-        "CityCount": 3
-      },
+        "CityCount": 12
+      }
+    ]
+  },
+  {
+    "Title": "Eh Din Roz Ni Aune",
+    "Poster": "https://in.bmscdn.com/events/moviecard/eh-din-roz-ni-aune-et00518816-1790168733.jpg",
+    "Genres": [
+      "Drama",
+      "Family"
+    ],
+    "Rating": "UA 7",
+    "Duration": "2 hrs 11 mins",
+    "EventDate": "2026-10-09",
+    "isNewEvent": "Y",
+    "CityCount": 12,
+    "DefaultEventCode": "ET00518816",
+    "Variants": [
       {
-        "VariantName": "The Odyssey (IMAX 2D)",
-        "EventCode": "ET00480917",
-        "Language": "English",
-        "Format": "IMAX 2D",
-        "CityCount": 6
-      },
+        "VariantName": "Eh Din Roz Ni Aune",
+        "EventCode": "ET00518816",
+        "Language": "Punjabi",
+        "Format": "2D",
+        "CityCount": 12
+      }
+    ]
+  },
+  {
+    "Title": "Dhappa",
+    "Poster": "https://in.bmscdn.com/events/moviecard/dhappa-et00520563-1791185958.jpg",
+    "Genres": [
+      "Comedy",
+      "Drama",
+      "Family",
+      "Romantic"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 22 mins",
+    "EventDate": "2026-10-09",
+    "isNewEvent": "Y",
+    "CityCount": 11,
+    "DefaultEventCode": "ET00520563",
+    "Variants": [
       {
-        "VariantName": "The Odyssey (EPIQ)",
-        "EventCode": "ET00502229",
-        "Language": "English",
-        "Format": "EPIQ",
-        "CityCount": 2
-      },
+        "VariantName": "Dhappa",
+        "EventCode": "ET00520563",
+        "Language": "Marathi",
+        "Format": "2D",
+        "CityCount": 11
+      }
+    ]
+  },
+  {
+    "Title": "Aaram",
+    "Poster": "https://in.bmscdn.com/events/moviecard/aaram-et00516472-1788955362.jpg",
+    "Genres": [
+      "Crime",
+      "Drama",
+      "Psychological",
+      "Suspense",
+      "Thriller"
+    ],
+    "Rating": "UA16",
+    "Duration": "1 hr 50 mins",
+    "EventDate": "2026-09-25",
+    "isNewEvent": "N",
+    "CityCount": 11,
+    "DefaultEventCode": "ET00516472",
+    "Variants": [
       {
-        "VariantName": "The Odyssey (IMAX 2D)(Hindi)",
-        "EventCode": "ET00505787",
-        "Language": "Hindi",
-        "Format": "IMAX 2D",
-        "CityCount": 1
+        "VariantName": "Aaram",
+        "EventCode": "ET00516472",
+        "Language": "Malayalam",
+        "Format": "2D",
+        "CityCount": 11
       }
     ]
   },
@@ -1372,144 +1509,106 @@
     ]
   },
   {
-    "Title": "Aaram",
-    "Poster": "https://in.bmscdn.com/events/moviecard/aaram-et00516472-1788955362.jpg",
+    "Title": "All Pass",
+    "Poster": "https://in.bmscdn.com/events/moviecard/all-pass-et00516832-1789131821.jpg",
     "Genres": [
-      "Crime",
       "Drama",
-      "Psychological",
-      "Suspense",
-      "Thriller"
+      "Family"
     ],
-    "Rating": "UA16",
-    "Duration": "1 hr 50 mins",
-    "EventDate": "2026-09-25",
-    "isNewEvent": "N",
-    "CityCount": 10,
-    "DefaultEventCode": "ET00516472",
+    "Rating": "UA13",
+    "Duration": "2 hrs 4 mins",
+    "EventDate": "2026-10-09",
+    "isNewEvent": "Y",
+    "CityCount": 11,
+    "DefaultEventCode": "ET00516832",
     "Variants": [
       {
-        "VariantName": "Aaram",
-        "EventCode": "ET00516472",
-        "Language": "Malayalam",
+        "VariantName": "All Pass",
+        "EventCode": "ET00516832",
+        "Language": "Tamil",
+        "Format": "2D",
+        "CityCount": 11
+      }
+    ]
+  },
+  {
+    "Title": "The Odyssey",
+    "Poster": "https://in.bmscdn.com/events/moviecard/the-odyssey-et00452034-1778421685.jpg",
+    "Genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "Rating": "A",
+    "Duration": "2 hrs 55 mins",
+    "EventDate": "2026-07-17",
+    "isNewEvent": "N",
+    "CityCount": 11,
+    "DefaultEventCode": "ET00452034",
+    "Variants": [
+      {
+        "VariantName": "The Odyssey",
+        "EventCode": "ET00452034",
+        "Language": "English",
+        "Format": "2D",
+        "CityCount": 3
+      },
+      {
+        "VariantName": "The Odyssey (IMAX 2D)",
+        "EventCode": "ET00480917",
+        "Language": "English",
+        "Format": "IMAX 2D",
+        "CityCount": 10
+      },
+      {
+        "VariantName": "The Odyssey (EPIQ)",
+        "EventCode": "ET00502229",
+        "Language": "English",
+        "Format": "EPIQ",
+        "CityCount": 2
+      }
+    ]
+  },
+  {
+    "Title": "96",
+    "Poster": "https://in.bmscdn.com/events/moviecard/96-et00053595-16-02-2017-02-16-29.jpg",
+    "Genres": [
+      "Drama",
+      "Romantic"
+    ],
+    "Rating": "U",
+    "Duration": "2 hrs 38 mins",
+    "EventDate": "2018-10-04",
+    "isNewEvent": "N",
+    "CityCount": 10,
+    "DefaultEventCode": "ET00053595",
+    "Variants": [
+      {
+        "VariantName": "96",
+        "EventCode": "ET00053595",
+        "Language": "Tamil",
         "Format": "2D",
         "CityCount": 10
       }
     ]
   },
   {
-    "Title": "Baa Baa Black Sheep",
-    "Poster": "https://in.bmscdn.com/events/moviecard/baa-baa-black-sheep-et00465242-1791179596.jpg",
+    "Title": "Poru: Oru Tharam, Randu Tharam",
+    "Poster": "https://in.bmscdn.com/events/moviecard/poru-oru-tharam-randu-tharam-et00521062-1791350874.jpg",
     "Genres": [
-      "Comedy",
-      "Drama"
+      "Comedy"
     ],
-    "Rating": "UA13",
-    "Duration": "2 hrs 15 mins",
+    "Rating": "UA16",
+    "Duration": "2 hrs 19 mins",
     "EventDate": "2026-10-09",
     "isNewEvent": "Y",
     "CityCount": 9,
-    "DefaultEventCode": "ET00465242",
+    "DefaultEventCode": "ET00521062",
     "Variants": [
       {
-        "VariantName": "Baa Baa Black Sheep",
-        "EventCode": "ET00465242",
-        "Language": "Telugu",
-        "Format": "2D",
-        "CityCount": 9
-      }
-    ]
-  },
-  {
-    "Title": "VIBE",
-    "Poster": "https://in.bmscdn.com/events/moviecard/vibe-et00506465-1789916347.jpg",
-    "Genres": [
-      "Action",
-      "Comedy"
-    ],
-    "Rating": "A",
-    "Duration": "2 hrs 26 mins",
-    "EventDate": "2026-09-18",
-    "isNewEvent": "N",
-    "CityCount": 9,
-    "DefaultEventCode": "ET00506465",
-    "Variants": [
-      {
-        "VariantName": "VIBE",
-        "EventCode": "ET00506465",
-        "Language": "Hindi",
-        "Format": "2D",
-        "CityCount": 9
-      }
-    ]
-  },
-  {
-    "Title": "Jadi: The Untold Side of If",
-    "Poster": "https://in.bmscdn.com/events/moviecard/jadi-the-untold-side-of-if-et00495643-1776326077.jpg",
-    "Genres": [
-      "Comedy",
-      "Crime",
-      "Drama"
-    ],
-    "Rating": "A",
-    "Duration": "2 hrs 58 mins",
-    "EventDate": "2026-09-13",
-    "isNewEvent": "N",
-    "CityCount": 9,
-    "DefaultEventCode": "ET00495643",
-    "Variants": [
-      {
-        "VariantName": "Jadi: The Untold Side of If",
-        "EventCode": "ET00495643",
-        "Language": "Odia",
-        "Format": "2D",
-        "CityCount": 9
-      }
-    ]
-  },
-  {
-    "Title": "Primetime",
-    "Poster": "https://in.bmscdn.com/events/moviecard/primetime-et00514345-1787822961.jpg",
-    "Genres": [
-      "Biography",
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "Rating": "A",
-    "Duration": "1 hr 50 mins",
-    "EventDate": "2026-09-25",
-    "isNewEvent": "N",
-    "CityCount": 9,
-    "DefaultEventCode": "ET00514345",
-    "Variants": [
-      {
-        "VariantName": "Primetime",
-        "EventCode": "ET00514345",
-        "Language": "English",
-        "Format": "2D",
-        "CityCount": 9
-      }
-    ]
-  },
-  {
-    "Title": "Aasha",
-    "Poster": "https://in.bmscdn.com/events/moviecard/aasha-et00516253-1788955282.jpg",
-    "Genres": [
-      "Drama",
-      "Family",
-      "Mystery"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 7 mins",
-    "EventDate": "2026-09-11",
-    "isNewEvent": "N",
-    "CityCount": 9,
-    "DefaultEventCode": "ET00516253",
-    "Variants": [
-      {
-        "VariantName": "Aasha",
-        "EventCode": "ET00516253",
+        "VariantName": "Poru: Oru Tharam, Randu Tharam",
+        "EventCode": "ET00521062",
         "Language": "Malayalam",
         "Format": "2D",
         "CityCount": 9
@@ -1527,12 +1626,106 @@
     "Duration": "2 hrs 35 mins",
     "EventDate": "2026-10-02",
     "isNewEvent": "Y",
-    "CityCount": 8,
+    "CityCount": 9,
     "DefaultEventCode": "ET00518078",
     "Variants": [
       {
         "VariantName": "Premane Oorilo",
         "EventCode": "ET00518078",
+        "Language": "Telugu",
+        "Format": "2D",
+        "CityCount": 9
+      }
+    ]
+  },
+  {
+    "Title": "Yezhu Kadal Yezhu Malai",
+    "Poster": "https://in.bmscdn.com/events/moviecard/yezhu-kadal-yezhu-malai-et00342249-1788184305.jpg",
+    "Genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 17 mins",
+    "EventDate": "2026-10-01",
+    "isNewEvent": "Y",
+    "CityCount": 9,
+    "DefaultEventCode": "ET00342249",
+    "Variants": [
+      {
+        "VariantName": "Yezhu Kadal Yezhu Malai",
+        "EventCode": "ET00342249",
+        "Language": "Tamil",
+        "Format": "2D",
+        "CityCount": 9
+      }
+    ]
+  },
+  {
+    "Title": "Jadi: The Untold Side of If",
+    "Poster": "https://in.bmscdn.com/events/moviecard/jadi-the-untold-side-of-if-et00495643-1776326077.jpg",
+    "Genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "Rating": "A",
+    "Duration": "2 hrs 58 mins",
+    "EventDate": "2026-09-13",
+    "isNewEvent": "N",
+    "CityCount": 8,
+    "DefaultEventCode": "ET00495643",
+    "Variants": [
+      {
+        "VariantName": "Jadi: The Untold Side of If",
+        "EventCode": "ET00495643",
+        "Language": "Odia",
+        "Format": "2D",
+        "CityCount": 8
+      }
+    ]
+  },
+  {
+    "Title": "Bail",
+    "Poster": "https://in.bmscdn.com/events/moviecard/bail-et00517163-1789301571.jpg",
+    "Genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 38 mins",
+    "EventDate": "2026-10-02",
+    "isNewEvent": "Y",
+    "CityCount": 8,
+    "DefaultEventCode": "ET00517163",
+    "Variants": [
+      {
+        "VariantName": "Bail",
+        "EventCode": "ET00517163",
+        "Language": "Kannada",
+        "Format": "2D",
+        "CityCount": 8
+      }
+    ]
+  },
+  {
+    "Title": "Good Time",
+    "Poster": "https://in.bmscdn.com/events/moviecard/good-time-et00516322-1788930773.jpg",
+    "Genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "Rating": "A",
+    "Duration": "2 hrs 16 mins",
+    "EventDate": "2026-10-09",
+    "isNewEvent": "Y",
+    "CityCount": 8,
+    "DefaultEventCode": "ET00516322",
+    "Variants": [
+      {
+        "VariantName": "Good Time",
+        "EventCode": "ET00516322",
         "Language": "Telugu",
         "Format": "2D",
         "CityCount": 8
@@ -1564,93 +1757,94 @@
     ]
   },
   {
-    "Title": "Bail",
-    "Poster": "https://in.bmscdn.com/events/moviecard/bail-et00517163-1789301571.jpg",
+    "Title": "Primetime",
+    "Poster": "https://in.bmscdn.com/events/moviecard/primetime-et00514345-1787822961.jpg",
     "Genres": [
+      "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 38 mins",
-    "EventDate": "2026-10-02",
-    "isNewEvent": "Y",
+    "Rating": "A",
+    "Duration": "1 hr 50 mins",
+    "EventDate": "2026-09-25",
+    "isNewEvent": "N",
     "CityCount": 8,
-    "DefaultEventCode": "ET00517163",
+    "DefaultEventCode": "ET00514345",
     "Variants": [
       {
-        "VariantName": "Bail",
-        "EventCode": "ET00517163",
-        "Language": "Kannada",
+        "VariantName": "Primetime",
+        "EventCode": "ET00514345",
+        "Language": "English",
         "Format": "2D",
         "CityCount": 8
       }
     ]
   },
   {
-    "Title": "Paach Futacha Bachchan",
-    "Poster": "https://in.bmscdn.com/events/moviecard/paach-futacha-bachchan-et00515070-1788265629.jpg",
+    "Title": "VIBE",
+    "Poster": "https://in.bmscdn.com/events/moviecard/vibe-et00506465-1789916347.jpg",
     "Genres": [
-      "Drama"
-    ],
-    "Rating": "UA13",
-    "Duration": "2 hrs 19 mins",
-    "EventDate": "2026-10-09",
-    "isNewEvent": "Y",
-    "CityCount": 8,
-    "DefaultEventCode": "ET00515070",
-    "Variants": [
-      {
-        "VariantName": "Paach Futacha Bachchan",
-        "EventCode": "ET00515070",
-        "Language": "Marathi",
-        "Format": "2D",
-        "CityCount": 8
-      }
-    ]
-  },
-  {
-    "Title": "Good Time",
-    "Poster": "https://in.bmscdn.com/events/moviecard/good-time-et00516322-1788930773.jpg",
-    "Genres": [
-      "Drama",
-      "Thriller"
+      "Action",
+      "Comedy"
     ],
     "Rating": "A",
-    "Duration": "2 hrs 16 mins",
+    "Duration": "2 hrs 26 mins",
+    "EventDate": "2026-09-18",
+    "isNewEvent": "N",
+    "CityCount": 8,
+    "DefaultEventCode": "ET00506465",
+    "Variants": [
+      {
+        "VariantName": "VIBE",
+        "EventCode": "ET00506465",
+        "Language": "Hindi",
+        "Format": "2D",
+        "CityCount": 8
+      }
+    ]
+  },
+  {
+    "Title": "Sahal",
+    "Poster": "https://in.bmscdn.com/events/moviecard/sahal-et00518227-1789967021.jpg",
+    "Genres": [
+      "Drama",
+      "Family"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 9 mins",
     "EventDate": "2026-10-09",
     "isNewEvent": "Y",
     "CityCount": 7,
-    "DefaultEventCode": "ET00516322",
+    "DefaultEventCode": "ET00518227",
     "Variants": [
       {
-        "VariantName": "Good Time",
-        "EventCode": "ET00516322",
-        "Language": "Telugu",
+        "VariantName": "Sahal",
+        "EventCode": "ET00518227",
+        "Language": "Marathi",
         "Format": "2D",
         "CityCount": 7
       }
     ]
   },
   {
-    "Title": "Bhootu Aaya Bhago",
-    "Poster": "https://in.bmscdn.com/events/moviecard/bhootu-aaya-bhago-et00513152-1787141147.jpg",
+    "Title": "Saptha Sagaralu Saptha Girulu",
+    "Poster": "https://in.bmscdn.com/events/moviecard/saptha-sagaralu-saptha-girulu-et00519615-1791451453.jpg",
     "Genres": [
-      "Comedy",
-      "Horror",
-      "Thriller"
+      "Drama",
+      "Fantasy"
     ],
     "Rating": "UA16",
-    "Duration": "1 hr 56 mins",
-    "EventDate": "2026-10-02",
+    "Duration": "2 hrs 17 mins",
+    "EventDate": "2026-10-01",
     "isNewEvent": "Y",
     "CityCount": 7,
-    "DefaultEventCode": "ET00513152",
+    "DefaultEventCode": "ET00519615",
     "Variants": [
       {
-        "VariantName": "Bhootu Aaya Bhago",
-        "EventCode": "ET00513152",
-        "Language": "Bengali",
+        "VariantName": "Saptha Sagaralu Saptha Girulu",
+        "EventCode": "ET00519615",
+        "Language": "Telugu",
         "Format": "2D",
         "CityCount": 7
       }
@@ -1680,51 +1874,6 @@
     ]
   },
   {
-    "Title": "Dhanushkodiyilekku",
-    "Poster": "https://in.bmscdn.com/events/moviecard/dhanushkodiyilekku-et00521126-1791355807.jpg",
-    "Genres": [
-      "Drama"
-    ],
-    "Rating": "",
-    "Duration": "-",
-    "EventDate": "2026-10-09",
-    "isNewEvent": "Y",
-    "CityCount": 7,
-    "DefaultEventCode": "ET00521126",
-    "Variants": [
-      {
-        "VariantName": "Dhanushkodiyilekku",
-        "EventCode": "ET00521126",
-        "Language": "Malayalam",
-        "Format": "2D",
-        "CityCount": 7
-      }
-    ]
-  },
-  {
-    "Title": "Eh Din Roz Ni Aune",
-    "Poster": "https://in.bmscdn.com/events/moviecard/eh-din-roz-ni-aune-et00518816-1790168733.jpg",
-    "Genres": [
-      "Drama",
-      "Family"
-    ],
-    "Rating": "",
-    "Duration": "-",
-    "EventDate": "2026-10-09",
-    "isNewEvent": "Y",
-    "CityCount": 7,
-    "DefaultEventCode": "ET00518816",
-    "Variants": [
-      {
-        "VariantName": "Eh Din Roz Ni Aune",
-        "EventCode": "ET00518816",
-        "Language": "Punjabi",
-        "Format": "2D",
-        "CityCount": 7
-      }
-    ]
-  },
-  {
     "Title": "Jayanti 2",
     "Poster": "https://in.bmscdn.com/events/moviecard/jayanti-2-et00505232-1785932073.jpg",
     "Genres": [
@@ -1747,67 +1896,45 @@
     ]
   },
   {
-    "Title": "C/o A Journey",
-    "Poster": "https://in.bmscdn.com/events/moviecard/c-o-a-journey-et00448118-1748688032.jpg",
+    "Title": "Irumudi",
+    "Poster": "https://in.bmscdn.com/events/moviecard/irumudi-et00487933-1787303118.jpg",
     "Genres": [
-      "Drama"
+      "Action",
+      "Drama",
+      "Family"
     ],
     "Rating": "UA16",
-    "Duration": "2 hrs 7 mins",
-    "EventDate": "2026-10-02",
-    "isNewEvent": "Y",
-    "CityCount": 6,
-    "DefaultEventCode": "ET00448118",
+    "Duration": "2 hrs 25 mins",
+    "EventDate": "2026-08-21",
+    "isNewEvent": "N",
+    "CityCount": 7,
+    "DefaultEventCode": "ET00487933",
     "Variants": [
       {
-        "VariantName": "C/o A Journey",
-        "EventCode": "ET00448118",
-        "Language": "Bengali",
+        "VariantName": "Irumudi",
+        "EventCode": "ET00487933",
+        "Language": "Telugu",
         "Format": "2D",
-        "CityCount": 6
+        "CityCount": 7
       }
     ]
   },
   {
-    "Title": "Prem XL",
-    "Poster": "https://in.bmscdn.com/events/moviecard/prem-xl-et00519290-1790400574.jpg",
+    "Title": "Aarambham Oru Albaniyo Katha",
+    "Poster": "https://in.bmscdn.com/events/moviecard/aarambham-oru-albaniyo-katha-et00521365-1791441795.jpg",
     "Genres": [
-      "Drama",
-      "Romantic"
-    ],
-    "Rating": "UA13",
-    "Duration": "2 hrs 13 mins",
-    "EventDate": "2026-10-02",
-    "isNewEvent": "Y",
-    "CityCount": 6,
-    "DefaultEventCode": "ET00519290",
-    "Variants": [
-      {
-        "VariantName": "Prem XL",
-        "EventCode": "ET00519290",
-        "Language": "Assamese",
-        "Format": "2D",
-        "CityCount": 6
-      }
-    ]
-  },
-  {
-    "Title": "Chiram",
-    "Poster": "https://in.bmscdn.com/events/moviecard/chiram-et00516633-1789036028.jpg",
-    "Genres": [
-      "Drama",
-      "Romantic"
+      "Drama"
     ],
     "Rating": "",
     "Duration": "-",
     "EventDate": "2026-10-09",
     "isNewEvent": "Y",
     "CityCount": 6,
-    "DefaultEventCode": "ET00516633",
+    "DefaultEventCode": "ET00521365",
     "Variants": [
       {
-        "VariantName": "Chiram",
-        "EventCode": "ET00516633",
+        "VariantName": "Aarambham Oru Albaniyo Katha",
+        "EventCode": "ET00521365",
         "Language": "Malayalam",
         "Format": "2D",
         "CityCount": 6
@@ -1815,23 +1942,24 @@
     ]
   },
   {
-    "Title": "Mitti De Putt",
-    "Poster": "https://in.bmscdn.com/events/moviecard/mitt-de-putt-et00514373-1787822745.jpg",
+    "Title": "Aasha",
+    "Poster": "https://in.bmscdn.com/events/moviecard/aasha-et00516253-1788955282.jpg",
     "Genres": [
-      "Action",
-      "Drama"
+      "Drama",
+      "Family",
+      "Mystery"
     ],
-    "Rating": "A",
-    "Duration": "2 hrs 19 mins",
-    "EventDate": "2026-09-18",
+    "Rating": "UA16",
+    "Duration": "2 hrs 7 mins",
+    "EventDate": "2026-09-11",
     "isNewEvent": "N",
     "CityCount": 6,
-    "DefaultEventCode": "ET00514373",
+    "DefaultEventCode": "ET00516253",
     "Variants": [
       {
-        "VariantName": "Mitti De Putt",
-        "EventCode": "ET00514373",
-        "Language": "Punjabi",
+        "VariantName": "Aasha",
+        "EventCode": "ET00516253",
+        "Language": "Malayalam",
         "Format": "2D",
         "CityCount": 6
       }
@@ -1862,6 +1990,29 @@
     ]
   },
   {
+    "Title": "Dipholu",
+    "Poster": "https://in.bmscdn.com/events/moviecard/dipholu-et00519394-1790575183.jpg",
+    "Genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "Rating": "U",
+    "Duration": "2 hrs 6 mins",
+    "EventDate": "2026-10-09",
+    "isNewEvent": "Y",
+    "CityCount": 6,
+    "DefaultEventCode": "ET00519394",
+    "Variants": [
+      {
+        "VariantName": "Dipholu",
+        "EventCode": "ET00519394",
+        "Language": "Assamese",
+        "Format": "2D",
+        "CityCount": 6
+      }
+    ]
+  },
+  {
     "Title": "Citylights",
     "Poster": "https://in.bmscdn.com/events/moviecard/citylights-et00510578-1785845336.jpg",
     "Genres": [
@@ -1881,78 +2032,6 @@
         "Language": "Kannada",
         "Format": "2D",
         "CityCount": 6
-      }
-    ]
-  },
-  {
-    "Title": "Chatni",
-    "Poster": "https://in.bmscdn.com/events/moviecard/chatni-et00513462-1787232001.jpg",
-    "Genres": [
-      "Drama",
-      "Family",
-      "Romantic"
-    ],
-    "Rating": "UA13",
-    "Duration": "2 hrs 47 mins",
-    "EventDate": "2026-09-18",
-    "isNewEvent": "N",
-    "CityCount": 5,
-    "DefaultEventCode": "ET00513462",
-    "Variants": [
-      {
-        "VariantName": "Chatni",
-        "EventCode": "ET00513462",
-        "Language": "Gujarati",
-        "Format": "2D",
-        "CityCount": 5
-      }
-    ]
-  },
-  {
-    "Title": "Oye Chill Maar",
-    "Poster": "https://in.bmscdn.com/events/moviecard/oye-chill-maar-et00514653-1788003046.jpg",
-    "Genres": [
-      "Comedy",
-      "Drama",
-      "Thriller"
-    ],
-    "Rating": "A",
-    "Duration": "2 hrs 7 mins",
-    "EventDate": "2026-09-25",
-    "isNewEvent": "N",
-    "CityCount": 5,
-    "DefaultEventCode": "ET00514653",
-    "Variants": [
-      {
-        "VariantName": "Oye Chill Maar",
-        "EventCode": "ET00514653",
-        "Language": "Hindi",
-        "Format": "2D",
-        "CityCount": 5
-      }
-    ]
-  },
-  {
-    "Title": "Irumudi",
-    "Poster": "https://in.bmscdn.com/events/moviecard/irumudi-et00487933-1787303118.jpg",
-    "Genres": [
-      "Action",
-      "Drama",
-      "Family"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 25 mins",
-    "EventDate": "2026-08-21",
-    "isNewEvent": "N",
-    "CityCount": 5,
-    "DefaultEventCode": "ET00487933",
-    "Variants": [
-      {
-        "VariantName": "Irumudi",
-        "EventCode": "ET00487933",
-        "Language": "Telugu",
-        "Format": "2D",
-        "CityCount": 5
       }
     ]
   },
@@ -1981,343 +2060,24 @@
     ]
   },
   {
-    "Title": "Spider-Man: Brand New Day",
-    "Poster": "https://in.bmscdn.com/events/moviecard/spider-man-brand-new-day-et00502600-1781678765.jpg",
+    "Title": "Thaainilam",
+    "Poster": "https://in.bmscdn.com/events/moviecard/thaainilam-et00405286-1789035289.jpg",
     "Genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
+      "Drama"
     ],
-    "Rating": "UA13",
-    "Duration": "2 hrs 25 mins",
-    "EventDate": "2026-07-30",
-    "isNewEvent": "N",
+    "Rating": "U",
+    "Duration": "1 hr 48 mins",
+    "EventDate": "2026-10-09",
+    "isNewEvent": "Y",
     "CityCount": 5,
-    "DefaultEventCode": "ET00447840",
+    "DefaultEventCode": "ET00405286",
     "Variants": [
       {
-        "VariantName": "Spider-Man: Brand New Day",
-        "EventCode": "ET00447840",
-        "Language": "English",
-        "Format": "2D",
-        "CityCount": 1
-      },
-      {
-        "VariantName": "Spider-Man: Brand New Day (3D)",
-        "EventCode": "ET00502600",
-        "Language": "English",
-        "Format": "3D",
-        "CityCount": 3
-      },
-      {
-        "VariantName": "Spider-Man: Brand New Day (4DX 3D)",
-        "EventCode": "ET00502630",
-        "Language": "English",
-        "Format": "4DX 3D",
-        "CityCount": 2
-      }
-    ]
-  },
-  {
-    "Title": "SI Yugandhar",
-    "Poster": "https://in.bmscdn.com/events/moviecard/si-yugandhar-et00519610-1790663170.jpg",
-    "Genres": [
-      "Action",
-      "Drama"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 31 mins",
-    "EventDate": "2026-10-02",
-    "isNewEvent": "Y",
-    "CityCount": 4,
-    "DefaultEventCode": "ET00519610",
-    "Variants": [
-      {
-        "VariantName": "SI Yugandhar",
-        "EventCode": "ET00519610",
-        "Language": "Telugu",
-        "Format": "2D",
-        "CityCount": 4
-      }
-    ]
-  },
-  {
-    "Title": "Pidha Pachhi",
-    "Poster": "https://in.bmscdn.com/events/moviecard/pidha-pachhi-et00509388-1787737958.jpg",
-    "Genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 10 mins",
-    "EventDate": "2026-09-11",
-    "isNewEvent": "N",
-    "CityCount": 4,
-    "DefaultEventCode": "ET00509388",
-    "Variants": [
-      {
-        "VariantName": "Pidha Pachhi",
-        "EventCode": "ET00509388",
-        "Language": "Gujarati",
-        "Format": "2D",
-        "CityCount": 4
-      }
-    ]
-  },
-  {
-    "Title": "Poru: Oru Tharam, Randu Tharam",
-    "Poster": "https://in.bmscdn.com/events/moviecard/poru-oru-tharam-randu-tharam-et00521062-1791350874.jpg",
-    "Genres": [
-      "Comedy"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 19 mins",
-    "EventDate": "2026-10-09",
-    "isNewEvent": "Y",
-    "CityCount": 4,
-    "DefaultEventCode": "ET00521062",
-    "Variants": [
-      {
-        "VariantName": "Poru: Oru Tharam, Randu Tharam",
-        "EventCode": "ET00521062",
-        "Language": "Malayalam",
-        "Format": "2D",
-        "CityCount": 4
-      }
-    ]
-  },
-  {
-    "Title": "Aali Mothi Shahani",
-    "Poster": "https://in.bmscdn.com/events/moviecard/aali-mothi-shahani-et00515242-1788341125.jpg",
-    "Genres": [
-      "Comedy",
-      "Family",
-      "Fantasy"
-    ],
-    "Rating": "UA13",
-    "Duration": "2 hrs 26 mins",
-    "EventDate": "2026-10-02",
-    "isNewEvent": "Y",
-    "CityCount": 4,
-    "DefaultEventCode": "ET00515242",
-    "Variants": [
-      {
-        "VariantName": "Aali Mothi Shahani",
-        "EventCode": "ET00515242",
-        "Language": "Marathi",
-        "Format": "2D",
-        "CityCount": 4
-      }
-    ]
-  },
-  {
-    "Title": "Dhappa",
-    "Poster": "https://in.bmscdn.com/events/moviecard/dhappa-et00520563-1791185958.jpg",
-    "Genres": [
-      "Comedy",
-      "Drama",
-      "Family",
-      "Romantic"
-    ],
-    "Rating": "",
-    "Duration": "-",
-    "EventDate": "2026-10-09",
-    "isNewEvent": "Y",
-    "CityCount": 4,
-    "DefaultEventCode": "ET00520563",
-    "Variants": [
-      {
-        "VariantName": "Dhappa",
-        "EventCode": "ET00520563",
-        "Language": "Marathi",
-        "Format": "2D",
-        "CityCount": 4
-      }
-    ]
-  },
-  {
-    "Title": "Sahal",
-    "Poster": "https://in.bmscdn.com/events/moviecard/sahal-et00518227-1789967021.jpg",
-    "Genres": [
-      "Drama",
-      "Family"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 9 mins",
-    "EventDate": "2026-10-09",
-    "isNewEvent": "Y",
-    "CityCount": 4,
-    "DefaultEventCode": "ET00518227",
-    "Variants": [
-      {
-        "VariantName": "Sahal",
-        "EventCode": "ET00518227",
-        "Language": "Marathi",
-        "Format": "2D",
-        "CityCount": 4
-      }
-    ]
-  },
-  {
-    "Title": "Saare Jagg Te Puwade Paaye Tutt Paini English Ne",
-    "Poster": "https://in.bmscdn.com/events/moviecard/tutt-paini-english-ne-et00514369-1787822583.jpg",
-    "Genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "Rating": "UA13",
-    "Duration": "1 hr 47 mins",
-    "EventDate": "2026-09-25",
-    "isNewEvent": "N",
-    "CityCount": 4,
-    "DefaultEventCode": "ET00514369",
-    "Variants": [
-      {
-        "VariantName": "Saare Jagg Te Puwade Paaye Tutt Paini English Ne",
-        "EventCode": "ET00514369",
-        "Language": "Punjabi",
-        "Format": "2D",
-        "CityCount": 4
-      }
-    ]
-  },
-  {
-    "Title": "Kitti",
-    "Poster": "https://in.bmscdn.com/events/moviecard/kitti-et00513897-1789034528.jpg",
-    "Genres": [
-      "Psychological",
-      "Thriller"
-    ],
-    "Rating": "UA16",
-    "Duration": "1 hr 59 mins",
-    "EventDate": "2026-10-09",
-    "isNewEvent": "Y",
-    "CityCount": 4,
-    "DefaultEventCode": "ET00513897",
-    "Variants": [
-      {
-        "VariantName": "Kitti",
-        "EventCode": "ET00513897",
+        "VariantName": "Thaainilam",
+        "EventCode": "ET00405286",
         "Language": "Tamil",
         "Format": "2D",
-        "CityCount": 4
-      }
-    ]
-  },
-  {
-    "Title": "Randu Rahasyangal",
-    "Poster": "https://in.bmscdn.com/events/moviecard/randu-rahasyangal-et00521158-1791361263.jpg",
-    "Genres": [
-      "Action",
-      "Thriller"
-    ],
-    "Rating": "UA16",
-    "Duration": "1 hr 42 mins",
-    "EventDate": "2026-10-09",
-    "isNewEvent": "Y",
-    "CityCount": 4,
-    "DefaultEventCode": "ET00521158",
-    "Variants": [
-      {
-        "VariantName": "Randu Rahasyangal",
-        "EventCode": "ET00521158",
-        "Language": "Malayalam",
-        "Format": "2D",
-        "CityCount": 4
-      }
-    ]
-  },
-  {
-    "Title": "Chhaydo",
-    "Poster": "https://in.bmscdn.com/events/moviecard/chhaydo-et00517977-1789732468.jpg",
-    "Genres": [
-      "Drama",
-      "Family"
-    ],
-    "Rating": "UA13",
-    "Duration": "1 hr 43 mins",
-    "EventDate": "2026-09-18",
-    "isNewEvent": "N",
-    "CityCount": 3,
-    "DefaultEventCode": "ET00517977",
-    "Variants": [
-      {
-        "VariantName": "Chhaydo",
-        "EventCode": "ET00517977",
-        "Language": "Gujarati",
-        "Format": "2D",
-        "CityCount": 3
-      }
-    ]
-  },
-  {
-    "Title": "Khatarnaak Safar Hard Ride",
-    "Poster": "https://in.bmscdn.com/events/moviecard/khatarnaak-safar-hard-ride-et00489765-1772433945.jpg",
-    "Genres": [
-      "Action",
-      "Family",
-      "Thriller"
-    ],
-    "Rating": "A",
-    "Duration": "1 hr 37 mins",
-    "EventDate": "2026-08-21",
-    "isNewEvent": "N",
-    "CityCount": 3,
-    "DefaultEventCode": "ET00489765",
-    "Variants": [
-      {
-        "VariantName": "Khatarnaak Safar Hard Ride",
-        "EventCode": "ET00489765",
-        "Language": "Hindi",
-        "Format": "2D",
-        "CityCount": 3
-      }
-    ]
-  },
-  {
-    "Title": "Gondhal",
-    "Poster": "https://in.bmscdn.com/events/moviecard/gondhal-et00465382-1766126060.jpg",
-    "Genres": [
-      "Drama",
-      "Thriller"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs ",
-    "EventDate": "2025-11-14",
-    "isNewEvent": "N",
-    "CityCount": 3,
-    "DefaultEventCode": "ET00465382",
-    "Variants": [
-      {
-        "VariantName": "Gondhal",
-        "EventCode": "ET00465382",
-        "Language": "Marathi",
-        "Format": "2D",
-        "CityCount": 3
-      }
-    ]
-  },
-  {
-    "Title": "Bhed",
-    "Poster": "https://in.bmscdn.com/events/moviecard/bhed-et00519746-1790679498.jpg",
-    "Genres": [
-      "Mystery",
-      "Supernatural",
-      "Thriller"
-    ],
-    "Rating": "A",
-    "Duration": "2 hrs 48 mins",
-    "EventDate": "2026-10-02",
-    "isNewEvent": "Y",
-    "CityCount": 3,
-    "DefaultEventCode": "ET00519746",
-    "Variants": [
-      {
-        "VariantName": "Bhed",
-        "EventCode": "ET00519746",
-        "Language": "Chattisgarhi",
-        "Format": "2D",
-        "CityCount": 3
+        "CityCount": 5
       }
     ]
   },
@@ -2332,13 +2092,166 @@
     "Duration": "2 hrs 21 mins",
     "EventDate": "2026-10-02",
     "isNewEvent": "Y",
-    "CityCount": 3,
+    "CityCount": 5,
     "DefaultEventCode": "ET00519561",
     "Variants": [
       {
         "VariantName": "Hulibeera",
         "EventCode": "ET00519561",
         "Language": "Kannada",
+        "Format": "2D",
+        "CityCount": 5
+      }
+    ]
+  },
+  {
+    "Title": "Spider-Man: Brand New Day",
+    "Poster": "https://in.bmscdn.com/events/moviecard/spider-man-brand-new-day-et00502600-1781678765.jpg",
+    "Genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "Rating": "UA13",
+    "Duration": "2 hrs 25 mins",
+    "EventDate": "2026-07-30",
+    "isNewEvent": "N",
+    "CityCount": 4,
+    "DefaultEventCode": "ET00447840",
+    "Variants": [
+      {
+        "VariantName": "Spider-Man: Brand New Day",
+        "EventCode": "ET00447840",
+        "Language": "English",
+        "Format": "2D",
+        "CityCount": 1
+      },
+      {
+        "VariantName": "Spider-Man: Brand New Day (3D)",
+        "EventCode": "ET00502600",
+        "Language": "English",
+        "Format": "3D",
+        "CityCount": 2
+      },
+      {
+        "VariantName": "Spider-Man: Brand New Day (4DX 3D)",
+        "EventCode": "ET00502630",
+        "Language": "English",
+        "Format": "4DX 3D",
+        "CityCount": 2
+      }
+    ]
+  },
+  {
+    "Title": "Gondhal",
+    "Poster": "https://in.bmscdn.com/events/moviecard/gondhal-et00465382-1791442343.jpg",
+    "Genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs ",
+    "EventDate": "2025-11-14",
+    "isNewEvent": "N",
+    "CityCount": 4,
+    "DefaultEventCode": "ET00465382",
+    "Variants": [
+      {
+        "VariantName": "Gondhal",
+        "EventCode": "ET00465382",
+        "Language": "Marathi",
+        "Format": "2D",
+        "CityCount": 4
+      }
+    ]
+  },
+  {
+    "Title": "Mitti De Putt",
+    "Poster": "https://in.bmscdn.com/events/moviecard/mitt-de-putt-et00514373-1787822745.jpg",
+    "Genres": [
+      "Action",
+      "Drama"
+    ],
+    "Rating": "A",
+    "Duration": "2 hrs 19 mins",
+    "EventDate": "2026-09-18",
+    "isNewEvent": "N",
+    "CityCount": 4,
+    "DefaultEventCode": "ET00514373",
+    "Variants": [
+      {
+        "VariantName": "Mitti De Putt",
+        "EventCode": "ET00514373",
+        "Language": "Punjabi",
+        "Format": "2D",
+        "CityCount": 4
+      }
+    ]
+  },
+  {
+    "Title": "Chatni",
+    "Poster": "https://in.bmscdn.com/events/moviecard/chatni-et00513462-1787232001.jpg",
+    "Genres": [
+      "Drama",
+      "Family",
+      "Romantic"
+    ],
+    "Rating": "UA13",
+    "Duration": "2 hrs 47 mins",
+    "EventDate": "2026-09-18",
+    "isNewEvent": "N",
+    "CityCount": 3,
+    "DefaultEventCode": "ET00513462",
+    "Variants": [
+      {
+        "VariantName": "Chatni",
+        "EventCode": "ET00513462",
+        "Language": "Gujarati",
+        "Format": "2D",
+        "CityCount": 3
+      }
+    ]
+  },
+  {
+    "Title": "Pidha Pachhi",
+    "Poster": "https://in.bmscdn.com/events/moviecard/pidha-pachhi-et00509388-1787737958.jpg",
+    "Genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 10 mins",
+    "EventDate": "2026-09-11",
+    "isNewEvent": "N",
+    "CityCount": 3,
+    "DefaultEventCode": "ET00509388",
+    "Variants": [
+      {
+        "VariantName": "Pidha Pachhi",
+        "EventCode": "ET00509388",
+        "Language": "Gujarati",
+        "Format": "2D",
+        "CityCount": 3
+      }
+    ]
+  },
+  {
+    "Title": "Parunthu",
+    "Poster": "https://in.bmscdn.com/events/moviecard/parunthu-et00521298-1791438325.jpg",
+    "Genres": [
+      "Drama"
+    ],
+    "Rating": "",
+    "Duration": "-",
+    "EventDate": "2026-10-09",
+    "isNewEvent": "Y",
+    "CityCount": 3,
+    "DefaultEventCode": "ET00521298",
+    "Variants": [
+      {
+        "VariantName": "Parunthu",
+        "EventCode": "ET00521298",
+        "Language": "Tamil",
         "Format": "2D",
         "CityCount": 3
       }
@@ -2369,23 +2282,71 @@
     ]
   },
   {
-    "Title": "All Pass",
-    "Poster": "https://in.bmscdn.com/events/moviecard/all-pass-et00516832-1789131821.jpg",
+    "Title": "120 Bahadur",
+    "Poster": "https://in.bmscdn.com/events/moviecard/120-bahadur-et00510877-1785917061.jpg",
     "Genres": [
-      "Drama",
-      "Family"
+      "Action",
+      "Historical",
+      "War"
     ],
     "Rating": "UA13",
-    "Duration": "2 hrs 4 mins",
-    "EventDate": "2026-10-09",
-    "isNewEvent": "Y",
+    "Duration": "2 hrs 17 mins",
+    "EventDate": "2025-11-21",
+    "isNewEvent": "N",
     "CityCount": 3,
-    "DefaultEventCode": "ET00516832",
+    "DefaultEventCode": "ET00410659",
     "Variants": [
       {
-        "VariantName": "All Pass",
-        "EventCode": "ET00516832",
-        "Language": "Tamil",
+        "VariantName": "120 Bahadur - Indian Sign Language",
+        "EventCode": "ET00510877",
+        "Language": "Hindi",
+        "Format": "2D",
+        "CityCount": 3
+      }
+    ]
+  },
+  {
+    "Title": "Bhootu Aaya Bhago",
+    "Poster": "https://in.bmscdn.com/events/moviecard/bhootu-aaya-bhago-et00513152-1787141147.jpg",
+    "Genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "Rating": "UA16",
+    "Duration": "1 hr 56 mins",
+    "EventDate": "2026-10-02",
+    "isNewEvent": "Y",
+    "CityCount": 3,
+    "DefaultEventCode": "ET00513152",
+    "Variants": [
+      {
+        "VariantName": "Bhootu Aaya Bhago",
+        "EventCode": "ET00513152",
+        "Language": "Bengali",
+        "Format": "2D",
+        "CityCount": 3
+      }
+    ]
+  },
+  {
+    "Title": "SI Yugandhar",
+    "Poster": "https://in.bmscdn.com/events/moviecard/si-yugandhar-et00519610-1790663170.jpg",
+    "Genres": [
+      "Action",
+      "Drama"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 31 mins",
+    "EventDate": "2026-10-02",
+    "isNewEvent": "Y",
+    "CityCount": 3,
+    "DefaultEventCode": "ET00519610",
+    "Variants": [
+      {
+        "VariantName": "SI Yugandhar",
+        "EventCode": "ET00519610",
+        "Language": "Telugu",
         "Format": "2D",
         "CityCount": 3
       }
@@ -2403,7 +2364,7 @@
     "Duration": "3 hrs 3 mins",
     "EventDate": "2026-07-23",
     "isNewEvent": "N",
-    "CityCount": 2,
+    "CityCount": 3,
     "DefaultEventCode": "ET00478378",
     "Variants": [
       {
@@ -2411,27 +2372,74 @@
         "EventCode": "ET00478378",
         "Language": "Hindi",
         "Format": "2D",
+        "CityCount": 3
+      }
+    ]
+  },
+  {
+    "Title": "Chhaydo",
+    "Poster": "https://in.bmscdn.com/events/moviecard/chhaydo-et00517977-1789732468.jpg",
+    "Genres": [
+      "Drama",
+      "Family"
+    ],
+    "Rating": "UA13",
+    "Duration": "1 hr 43 mins",
+    "EventDate": "2026-09-18",
+    "isNewEvent": "N",
+    "CityCount": 3,
+    "DefaultEventCode": "ET00517977",
+    "Variants": [
+      {
+        "VariantName": "Chhaydo",
+        "EventCode": "ET00517977",
+        "Language": "Gujarati",
+        "Format": "2D",
+        "CityCount": 3
+      }
+    ]
+  },
+  {
+    "Title": "Rebel ",
+    "Poster": "https://in.bmscdn.com/events/moviecard/rebel-et00009746-1790921396.jpg",
+    "Genres": [
+      "Action",
+      "Drama",
+      "Romantic"
+    ],
+    "Rating": "A",
+    "Duration": "2 hrs 57 mins",
+    "EventDate": "2012-09-28",
+    "isNewEvent": "N",
+    "CityCount": 2,
+    "DefaultEventCode": "ET00009746",
+    "Variants": [
+      {
+        "VariantName": "Rebel (Telugu)",
+        "EventCode": "ET00009746",
+        "Language": "Telugu",
+        "Format": "2D",
         "CityCount": 2
       }
     ]
   },
   {
-    "Title": "Dipholu",
-    "Poster": "https://in.bmscdn.com/events/moviecard/dipholu-et00519394-1790575183.jpg",
+    "Title": "Prem XL",
+    "Poster": "https://in.bmscdn.com/events/moviecard/prem-xl-et00519290-1790400574.jpg",
     "Genres": [
-      "Comedy",
-      "Drama"
+      "Drama",
+      "Romantic"
     ],
-    "Rating": "U",
-    "Duration": "2 hrs 6 mins",
-    "EventDate": "2026-10-09",
+    "Rating": "UA13",
+    "Duration": "2 hrs 13 mins",
+    "EventDate": "2026-10-02",
     "isNewEvent": "Y",
     "CityCount": 2,
-    "DefaultEventCode": "ET00519394",
+    "DefaultEventCode": "ET00519290",
     "Variants": [
       {
-        "VariantName": "Dipholu",
-        "EventCode": "ET00519394",
+        "VariantName": "Prem XL",
+        "EventCode": "ET00519290",
         "Language": "Assamese",
         "Format": "2D",
         "CityCount": 2
@@ -2439,43 +2447,47 @@
     ]
   },
   {
-    "Title": "2nd Wish",
-    "Poster": "https://in.bmscdn.com/events/moviecard/2nd-wish-et00519895-1790755855.jpg",
+    "Title": "Khatarnaak Safar Hard Ride",
+    "Poster": "https://in.bmscdn.com/events/moviecard/khatarnaak-safar-hard-ride-et00489765-1772433945.jpg",
     "Genres": [
-      "Drama"
+      "Action",
+      "Family",
+      "Thriller"
     ],
-    "Rating": "UA 7",
-    "Duration": "1 hr 54 mins",
-    "EventDate": "2026-10-02",
-    "isNewEvent": "Y",
+    "Rating": "A",
+    "Duration": "1 hr 37 mins",
+    "EventDate": "2026-08-21",
+    "isNewEvent": "N",
     "CityCount": 2,
-    "DefaultEventCode": "ET00519895",
+    "DefaultEventCode": "ET00489765",
     "Variants": [
       {
-        "VariantName": "2nd Wish",
-        "EventCode": "ET00519895",
-        "Language": "Bengali",
+        "VariantName": "Khatarnaak Safar Hard Ride",
+        "EventCode": "ET00489765",
+        "Language": "Hindi",
         "Format": "2D",
         "CityCount": 2
       }
     ]
   },
   {
-    "Title": "Gaman",
-    "Poster": "https://in.bmscdn.com/events/moviecard/gaman-et00516789-1789110325.jpg",
+    "Title": "Aali Mothi Shahani",
+    "Poster": "https://in.bmscdn.com/events/moviecard/aali-mothi-shahani-et00515242-1788341125.jpg",
     "Genres": [
-      "Drama"
+      "Comedy",
+      "Family",
+      "Fantasy"
     ],
     "Rating": "UA13",
-    "Duration": "1 hr 46 mins",
+    "Duration": "2 hrs 26 mins",
     "EventDate": "2026-10-02",
     "isNewEvent": "Y",
     "CityCount": 2,
-    "DefaultEventCode": "ET00516789",
+    "DefaultEventCode": "ET00515242",
     "Variants": [
       {
-        "VariantName": "Gaman",
-        "EventCode": "ET00516789",
+        "VariantName": "Aali Mothi Shahani",
+        "EventCode": "ET00515242",
         "Language": "Marathi",
         "Format": "2D",
         "CityCount": 2
@@ -2507,91 +2519,91 @@
     ]
   },
   {
-    "Title": "Rupayanamaha",
-    "Poster": "https://in.bmscdn.com/events/moviecard/rupayanamaha-et00512493-1789970486.jpg",
+    "Title": "Gaman",
+    "Poster": "https://in.bmscdn.com/events/moviecard/gaman-et00516789-1789110325.jpg",
     "Genres": [
-      "Drama",
-      "Family",
-      "Suspense"
+      "Drama"
     ],
     "Rating": "UA13",
-    "Duration": "2 hrs 13 mins",
+    "Duration": "1 hr 46 mins",
     "EventDate": "2026-10-02",
     "isNewEvent": "Y",
     "CityCount": 2,
-    "DefaultEventCode": "ET00512493",
+    "DefaultEventCode": "ET00516789",
     "Variants": [
       {
-        "VariantName": "Rupayanamaha",
-        "EventCode": "ET00512493",
-        "Language": "Telugu",
+        "VariantName": "Gaman",
+        "EventCode": "ET00516789",
+        "Language": "Marathi",
         "Format": "2D",
         "CityCount": 2
       }
     ]
   },
   {
-    "Title": "Surya in Gandhinagar",
-    "Poster": "https://in.bmscdn.com/events/moviecard/surya-in-gandhinagar-et00519025-1790258332.jpg",
+    "Title": "Rajini: The Jailer 2",
+    "Poster": "https://in.bmscdn.com/events/moviecard/rajini-the-jailer-2-et00429213-1736921279.jpg",
     "Genres": [
-      "Drama"
+      "Action",
+      "Thriller"
     ],
-    "Rating": "UA 7",
-    "Duration": "1 hr 59 mins",
-    "EventDate": "2026-10-02",
+    "Rating": "",
+    "Duration": "-",
+    "EventDate": "2026-10-15",
     "isNewEvent": "Y",
     "CityCount": 2,
-    "DefaultEventCode": "ET00519025",
+    "DefaultEventCode": "ET00429213",
     "Variants": [
       {
-        "VariantName": "Surya in Gandhinagar",
-        "EventCode": "ET00519025",
-        "Language": "Kannada",
+        "VariantName": "Rajini: The Jailer 2 (Hindi)",
+        "EventCode": "ET00429213",
+        "Language": "Hindi",
         "Format": "2D",
         "CityCount": 2
       }
     ]
   },
   {
-    "Title": "Thaainilam",
-    "Poster": "https://in.bmscdn.com/events/moviecard/thaainilam-et00405286-1789035289.jpg",
+    "Title": "Bhed",
+    "Poster": "https://in.bmscdn.com/events/moviecard/bhed-et00519746-1790679498.jpg",
     "Genres": [
-      "Drama"
-    ],
-    "Rating": "U",
-    "Duration": "1 hr 48 mins",
-    "EventDate": "2026-10-09",
-    "isNewEvent": "Y",
-    "CityCount": 2,
-    "DefaultEventCode": "ET00405286",
-    "Variants": [
-      {
-        "VariantName": "Thaainilam",
-        "EventCode": "ET00405286",
-        "Language": "Tamil",
-        "Format": "2D",
-        "CityCount": 2
-      }
-    ]
-  },
-  {
-    "Title": "Impure",
-    "Poster": "https://in.bmscdn.com/events/moviecard/impure-et00520054-1790770765.jpg",
-    "Genres": [
-      "Comedy",
-      "Drama"
+      "Mystery",
+      "Supernatural",
+      "Thriller"
     ],
     "Rating": "A",
-    "Duration": "1 hr 42 mins",
+    "Duration": "2 hrs 48 mins",
     "EventDate": "2026-10-02",
     "isNewEvent": "Y",
     "CityCount": 2,
-    "DefaultEventCode": "ET00520054",
+    "DefaultEventCode": "ET00519746",
     "Variants": [
       {
-        "VariantName": "Impure",
-        "EventCode": "ET00520054",
-        "Language": "English",
+        "VariantName": "Bhed",
+        "EventCode": "ET00519746",
+        "Language": "Chattisgarhi",
+        "Format": "2D",
+        "CityCount": 2
+      }
+    ]
+  },
+  {
+    "Title": "C/o A Journey",
+    "Poster": "https://in.bmscdn.com/events/moviecard/c-o-a-journey-et00448118-1748688032.jpg",
+    "Genres": [
+      "Drama"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 7 mins",
+    "EventDate": "2026-10-02",
+    "isNewEvent": "Y",
+    "CityCount": 2,
+    "DefaultEventCode": "ET00448118",
+    "Variants": [
+      {
+        "VariantName": "C/o A Journey",
+        "EventCode": "ET00448118",
+        "Language": "Bengali",
         "Format": "2D",
         "CityCount": 2
       }
@@ -2695,77 +2707,6 @@
     ]
   },
   {
-    "Title": "Rebel ",
-    "Poster": "https://in.bmscdn.com/events/moviecard/rebel-et00009746-1790921396.jpg",
-    "Genres": [
-      "Action",
-      "Drama",
-      "Romantic"
-    ],
-    "Rating": "A",
-    "Duration": "2 hrs 57 mins",
-    "EventDate": "2012-09-28",
-    "isNewEvent": "N",
-    "CityCount": 2,
-    "DefaultEventCode": "ET00009746",
-    "Variants": [
-      {
-        "VariantName": "Rebel (Telugu)",
-        "EventCode": "ET00009746",
-        "Language": "Telugu",
-        "Format": "2D",
-        "CityCount": 2
-      }
-    ]
-  },
-  {
-    "Title": "Dear Husband",
-    "Poster": "https://in.bmscdn.com/events/moviecard/dear-husband-et00520364-1790938211.jpg",
-    "Genres": [
-      "Crime",
-      "Drama",
-      "Romantic"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 2 mins",
-    "EventDate": "2026-10-02",
-    "isNewEvent": "Y",
-    "CityCount": 2,
-    "DefaultEventCode": "ET00520364",
-    "Variants": [
-      {
-        "VariantName": "Dear Husband",
-        "EventCode": "ET00520364",
-        "Language": "Hindi",
-        "Format": "2D",
-        "CityCount": 2
-      }
-    ]
-  },
-  {
-    "Title": "96",
-    "Poster": "https://in.bmscdn.com/events/moviecard/96-et00053595-16-02-2017-02-16-29.jpg",
-    "Genres": [
-      "Drama",
-      "Romantic"
-    ],
-    "Rating": "U",
-    "Duration": "2 hrs 38 mins",
-    "EventDate": "2018-10-04",
-    "isNewEvent": "N",
-    "CityCount": 2,
-    "DefaultEventCode": "ET00053595",
-    "Variants": [
-      {
-        "VariantName": "96",
-        "EventCode": "ET00053595",
-        "Language": "Tamil",
-        "Format": "2D",
-        "CityCount": 2
-      }
-    ]
-  },
-  {
     "Title": "Modha Rathri",
     "Poster": "https://in.bmscdn.com/events/moviecard/modha-rathri-et00511827-1786426464.jpg",
     "Genres": [
@@ -2790,724 +2731,68 @@
     ]
   },
   {
-    "Title": "Dahaan: The Evil Within",
-    "Poster": "https://in.bmscdn.com/events/moviecard/dahaan-the-evil-within-et00509404-1789129258.jpg",
+    "Title": "Surya in Gandhinagar",
+    "Poster": "https://in.bmscdn.com/events/moviecard/surya-in-gandhinagar-et00519025-1790258332.jpg",
     "Genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "Rating": "A",
-    "Duration": "2 hrs 13 mins",
-    "EventDate": "2026-09-11",
-    "isNewEvent": "N",
-    "CityCount": 2,
-    "DefaultEventCode": "ET00509404",
-    "Variants": [
-      {
-        "VariantName": "Dahaan: The Evil Within",
-        "EventCode": "ET00509404",
-        "Language": "Odia",
-        "Format": "2D",
-        "CityCount": 2
-      }
-    ]
-  },
-  {
-    "Title": "Haiwaan",
-    "Poster": "https://in.bmscdn.com/events/moviecard/haiwaan-et00506432-1788412070.jpg",
-    "Genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 44 mins",
-    "EventDate": "2026-09-11",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00506432",
-    "Variants": [
-      {
-        "VariantName": "Haiwaan",
-        "EventCode": "ET00506432",
-        "Language": "Hindi",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "I'm Game",
-    "Poster": "https://in.bmscdn.com/events/moviecard/i-m-game-et00511704-1788157536.jpg",
-    "Genres": [
-      "Fantasy",
-      "Thriller"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 54 mins",
-    "EventDate": "2026-09-03",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00473215",
-    "Variants": [
-      {
-        "VariantName": "I'm Game (Hindi)",
-        "EventCode": "ET00511704",
-        "Language": "Hindi",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Chaal Jeevi Laiye",
-    "Poster": "https://in.bmscdn.com/events/moviecard/chaal-jeevi-laiye-et00093811-15-10-2020-02-46-21.jpg",
-    "Genres": [
-      "Comedy",
       "Drama"
-    ],
-    "Rating": "U",
-    "Duration": "2 hrs 17 mins",
-    "EventDate": "2019-02-01",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00093811",
-    "Variants": [
-      {
-        "VariantName": "Chaal Jeevi Laiye",
-        "EventCode": "ET00093811",
-        "Language": "Gujarati",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Firki",
-    "Poster": "https://in.bmscdn.com/events/moviecard/firki-2025-et00470536-1762863027.jpg",
-    "Genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "Rating": "UA16",
-    "Duration": "1 hr 53 mins",
-    "EventDate": "2026-09-18",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00470536",
-    "Variants": [
-      {
-        "VariantName": "Firki",
-        "EventCode": "ET00470536",
-        "Language": "Gujarati",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Drushyaa",
-    "Poster": "https://in.bmscdn.com/events/moviecard/drushyaa-et00519395-1790519789.jpg",
-    "Genres": [
-      "Psychological",
-      "Thriller"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 9 mins",
-    "EventDate": "2026-10-02",
-    "isNewEvent": "Y",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00519395",
-    "Variants": [
-      {
-        "VariantName": "Drushyaa",
-        "EventCode": "ET00519395",
-        "Language": "Gujarati",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Zindagi Na Milegi Dobara",
-    "Poster": "https://in.bmscdn.com/events/moviecard/zindagi-na-milegi-dobara-et00006440-07-01-2021-11-25-35.jpg",
-    "Genres": [
-      "Adventure",
-      "Comedy",
-      "Drama"
-    ],
-    "Rating": "UA",
-    "Duration": "2 hrs 33 mins",
-    "EventDate": "2011-07-15",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00006440",
-    "Variants": [
-      {
-        "VariantName": "Zindagi Na Milegi Dobara",
-        "EventCode": "ET00006440",
-        "Language": "Hindi",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Jab We Met",
-    "Poster": "https://in.bmscdn.com/events/moviecard/jab-we-met-et00000182-1681714389.jpg",
-    "Genres": [
-      "Comedy",
-      "Romantic"
-    ],
-    "Rating": "U",
-    "Duration": "2 hrs 18 mins",
-    "EventDate": "2007-10-26",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00000182",
-    "Variants": [
-      {
-        "VariantName": "Jab We Met",
-        "EventCode": "ET00000182",
-        "Language": "Hindi",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Izhakalkkappuram (The Unseen Thread)",
-    "Poster": "https://in.bmscdn.com/events/moviecard/izhakalkkappuram-the-unseen-thread-et00517671-1789642253.jpg",
-    "Genres": [
-      "Drama",
-      "Family"
     ],
     "Rating": "UA 7",
-    "Duration": "1 hr 36 mins",
+    "Duration": "1 hr 59 mins",
     "EventDate": "2026-10-02",
     "isNewEvent": "Y",
     "CityCount": 1,
-    "DefaultEventCode": "ET00517671",
+    "DefaultEventCode": "ET00519025",
     "Variants": [
       {
-        "VariantName": "Izhakalkkappuram (The Unseen Thread)",
-        "EventCode": "ET00517671",
-        "Language": "Malayalam",
+        "VariantName": "Surya in Gandhinagar",
+        "EventCode": "ET00519025",
+        "Language": "Kannada",
         "Format": "2D",
         "CityCount": 1
       }
     ]
   },
   {
-    "Title": "Dil Deewana Ho Gaya",
-    "Poster": "https://in.bmscdn.com/events/moviecard/dil-deewana-ho-gaya-et00507494-1784016600.jpg",
+    "Title": "Amanushikam",
+    "Poster": "https://in.bmscdn.com/events/moviecard/amanushikam-et00516189-1788849981.jpg",
     "Genres": [
-      "Drama",
-      "Family",
-      "Romantic"
-    ],
-    "Rating": "UA13",
-    "Duration": "2 hrs 16 mins",
-    "EventDate": "2026-07-31",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00507494",
-    "Variants": [
-      {
-        "VariantName": "Dil Deewana Ho Gaya",
-        "EventCode": "ET00507494",
-        "Language": "Hindi",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Raibasi",
-    "Poster": "https://in.bmscdn.com/events/moviecard/raibasi-et00517922-1789741686.jpg",
-    "Genres": [
-      "Action",
-      "Drama",
-      "Romantic"
-    ],
-    "Rating": "UA16",
-    "Duration": "1 hr 55 mins",
-    "EventDate": "2026-09-11",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00517922",
-    "Variants": [
-      {
-        "VariantName": "Raibasi",
-        "EventCode": "ET00517922",
-        "Language": "Garhwali",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Bandkhor",
-    "Poster": "https://in.bmscdn.com/events/moviecard/bandkhor-et00518079-1789803474.jpg",
-    "Genres": [
-      "Drama"
-    ],
-    "Rating": "A",
-    "Duration": "2 hrs 12 mins",
-    "EventDate": "2026-09-24",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00518079",
-    "Variants": [
-      {
-        "VariantName": "Bandkhor",
-        "EventCode": "ET00518079",
-        "Language": "Marathi",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Devghar On Rent",
-    "Poster": "https://in.bmscdn.com/events/moviecard/devghar-on-rent-et00515640-1788528137.jpg",
-    "Genres": [
-      "Action",
-      "Drama",
-      "Family"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 20 mins",
-    "EventDate": "2026-09-25",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00515640",
-    "Variants": [
-      {
-        "VariantName": "Devghar On Rent",
-        "EventCode": "ET00515640",
-        "Language": "Marathi",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Aajo Ardhangini",
-    "Poster": "https://in.bmscdn.com/events/moviecard/aajo-ardhangini-et00503612-1781687007.jpg",
-    "Genres": [
-      "Drama",
-      "Family"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 25 mins",
-    "EventDate": "2026-07-10",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00503612",
-    "Variants": [
-      {
-        "VariantName": "Aajo Ardhangini",
-        "EventCode": "ET00503612",
-        "Language": "Bengali",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Khoonta",
-    "Poster": "https://in.bmscdn.com/events/moviecard/khoonta-et00516985-1789202622.jpg",
-    "Genres": [
-      "Drama"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 3 mins",
-    "EventDate": "2026-09-18",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00516985",
-    "Variants": [
-      {
-        "VariantName": "Khoonta",
-        "EventCode": "ET00516985",
-        "Language": "Hindi",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Ozhiyathe",
-    "Poster": "https://in.bmscdn.com/events/moviecard/ozhiyathe-et00515629-1788517439.jpg",
-    "Genres": [
-      "Drama",
-      "Period"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 13 mins",
-    "EventDate": "2026-09-11",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00515629",
-    "Variants": [
-      {
-        "VariantName": "Ozhiyathe",
-        "EventCode": "ET00515629",
-        "Language": "Malayalam",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Trikaaram",
-    "Poster": "https://in.bmscdn.com/events/moviecard/trikaaram-et00517775-1789649878.jpg",
-    "Genres": [
+      "Horror",
       "Mystery",
       "Thriller"
     ],
     "Rating": "UA16",
-    "Duration": "2 hrs 1 min",
+    "Duration": "2 hrs 24 mins",
+    "EventDate": "2026-09-25",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00516189",
+    "Variants": [
+      {
+        "VariantName": "Amanushikam",
+        "EventCode": "ET00516189",
+        "Language": "Malayalam",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Impure",
+    "Poster": "https://in.bmscdn.com/events/moviecard/impure-et00520054-1790770765.jpg",
+    "Genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "Rating": "A",
+    "Duration": "1 hr 42 mins",
     "EventDate": "2026-10-02",
     "isNewEvent": "Y",
     "CityCount": 1,
-    "DefaultEventCode": "ET00517775",
+    "DefaultEventCode": "ET00520054",
     "Variants": [
       {
-        "VariantName": "Trikaaram",
-        "EventCode": "ET00517775",
-        "Language": "Kannada",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "America America 2",
-    "Poster": "https://in.bmscdn.com/events/moviecard/america-america-2-et00511528-1786343063.jpg",
-    "Genres": [
-      "Drama",
-      "Romantic"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 22 mins",
-    "EventDate": "2026-09-11",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00511528",
-    "Variants": [
-      {
-        "VariantName": "America America 2",
-        "EventCode": "ET00511528",
-        "Language": "Kannada",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Common Man",
-    "Poster": "https://in.bmscdn.com/events/moviecard/common-man-et00501839-1780572133.jpg",
-    "Genres": [
-      "Action",
-      "Comedy",
-      "Political"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 26 mins",
-    "EventDate": "2026-09-25",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00501839",
-    "Variants": [
-      {
-        "VariantName": "Common Man",
-        "EventCode": "ET00501839",
-        "Language": "Kannada",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Spark",
-    "Poster": "https://in.bmscdn.com/events/moviecard/spark-et00513356-1787291926.jpg",
-    "Genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 29 mins",
-    "EventDate": "2026-09-25",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00513356",
-    "Variants": [
-      {
-        "VariantName": "Spark",
-        "EventCode": "ET00513356",
-        "Language": "Kannada",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Toss",
-    "Poster": "https://in.bmscdn.com/events/moviecard/toss-2026-et00514744-1788247467.jpg",
-    "Genres": [
-      "Action",
-      "Drama"
-    ],
-    "Rating": "UA13",
-    "Duration": "2 hrs 22 mins",
-    "EventDate": "2026-09-18",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00514426",
-    "Variants": [
-      {
-        "VariantName": "Toss (Tulu)",
-        "EventCode": "ET00514744",
-        "Language": "Tulu",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Mahakavi",
-    "Poster": "https://in.bmscdn.com/events/moviecard/mahakavi-et00517027-1789209380.jpg",
-    "Genres": [
-      "Drama",
-      "Historical"
-    ],
-    "Rating": "U",
-    "Duration": "2 hrs 2 mins",
-    "EventDate": "2026-09-18",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00517027",
-    "Variants": [
-      {
-        "VariantName": "Mahakavi",
-        "EventCode": "ET00517027",
-        "Language": "Kannada",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Video",
-    "Poster": "https://in.bmscdn.com/events/moviecard/video-et00514378-1787822259.jpg",
-    "Genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "Rating": "A",
-    "Duration": "2 hrs 2 mins",
-    "EventDate": "2026-09-11",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00514378",
-    "Variants": [
-      {
-        "VariantName": "Video",
-        "EventCode": "ET00514378",
-        "Language": "Kannada",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Insidious: Out of The Further",
-    "Poster": "https://in.bmscdn.com/events/moviecard/insidious-out-of-the-further-et00493836-1790864578.jpg",
-    "Genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "Rating": "A",
-    "Duration": "1 hr 45 mins",
-    "EventDate": "2026-08-21",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00493836",
-    "Variants": [
-      {
-        "VariantName": "Insidious: Out of The Further",
-        "EventCode": "ET00493836",
-        "Language": "English",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Bingo",
-    "Poster": "https://in.bmscdn.com/events/moviecard/bingo-et00419437-1731391297.jpg",
-    "Genres": [
-      "Drama",
-      "Suspense",
-      "Thriller"
-    ],
-    "Rating": "UA16",
-    "Duration": "1 hr 51 mins",
-    "EventDate": "2026-09-25",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00419437",
-    "Variants": [
-      {
-        "VariantName": "Bingo",
-        "EventCode": "ET00419437",
-        "Language": "Kannada",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Rudrabhishekam",
-    "Poster": "https://in.bmscdn.com/events/moviecard/rudrabhishekam-et00518216-1789971619.jpg",
-    "Genres": [
-      "Action",
-      "Drama"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 42 mins",
-    "EventDate": "2026-09-25",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00518216",
-    "Variants": [
-      {
-        "VariantName": "Rudrabhishekam",
-        "EventCode": "ET00518216",
-        "Language": "Kannada",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Sumaa The Flower",
-    "Poster": "https://in.bmscdn.com/events/moviecard/sumaa-the-flower-et00519233-1790342976.jpg",
-    "Genres": [
-      "Drama",
-      "Family",
-      "Social"
-    ],
-    "Rating": "U",
-    "Duration": "1 hr 48 mins",
-    "EventDate": "2026-10-02",
-    "isNewEvent": "Y",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00519233",
-    "Variants": [
-      {
-        "VariantName": "Sumaa The Flower",
-        "EventCode": "ET00519233",
-        "Language": "Kannada",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Sanchaari",
-    "Poster": "https://in.bmscdn.com/events/moviecard/sanchaari-et00519615-1790663050.jpg",
-    "Genres": [
-      "Drama",
-      "Fantasy"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 17 mins",
-    "EventDate": "2026-10-01",
-    "isNewEvent": "Y",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00519615",
-    "Variants": [
-      {
-        "VariantName": "Sanchaari",
-        "EventCode": "ET00519615",
-        "Language": "Telugu",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Minions & Monsters",
-    "Poster": "https://in.bmscdn.com/events/moviecard/minions-and-monsters-et00487783-1785417112.jpg",
-    "Genres": [
-      "Adventure",
-      "Animation",
-      "Comedy",
-      "Family"
-    ],
-    "Rating": "UA 7",
-    "Duration": "1 hr 30 mins",
-    "EventDate": "2026-07-02",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00487783",
-    "Variants": [
-      {
-        "VariantName": "Minions & Monsters",
-        "EventCode": "ET00487783",
-        "Language": "English",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "The Magic Faraway Tree",
-    "Poster": "https://in.bmscdn.com/events/moviecard/the-magic-faraway-tree-et00511400-1786602571.jpg",
-    "Genres": [
-      "Adventure",
-      "Family",
-      "Fantasy"
-    ],
-    "Rating": "UA 7",
-    "Duration": "1 hr 50 mins",
-    "EventDate": "2026-09-04",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00511400",
-    "Variants": [
-      {
-        "VariantName": "The Magic Faraway Tree",
-        "EventCode": "ET00511400",
-        "Language": "English",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Toy Story 5",
-    "Poster": "https://in.bmscdn.com/events/moviecard/toy-story-5-et00482787-1780901834.jpg",
-    "Genres": [
-      "Adventure",
-      "Animation",
-      "Comedy",
-      "Family"
-    ],
-    "Rating": "U",
-    "Duration": "1 hr 47 mins",
-    "EventDate": "2026-06-19",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00482787",
-    "Variants": [
-      {
-        "VariantName": "Toy Story 5",
-        "EventCode": "ET00482787",
+        "VariantName": "Impure",
+        "EventCode": "ET00520054",
         "Language": "English",
         "Format": "2D",
         "CityCount": 1
@@ -3539,30 +2824,6 @@
     ]
   },
   {
-    "Title": "Tatvam",
-    "Poster": "https://in.bmscdn.com/events/moviecard/tatvam-et00519744-1790674361.jpg",
-    "Genres": [
-      "Crime",
-      "Mystery",
-      "Thriller"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs ",
-    "EventDate": "2026-10-02",
-    "isNewEvent": "Y",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00519744",
-    "Variants": [
-      {
-        "VariantName": "Tatvam",
-        "EventCode": "ET00519744",
-        "Language": "Telugu",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
     "Title": "Sanam Bewafa",
     "Poster": "https://in.bmscdn.com/events/moviecard/sanam-bewafa-et00002768-17-04-2017-17-53-50.jpg",
     "Genres": [
@@ -3586,67 +2847,47 @@
     ]
   },
   {
-    "Title": "Lost in Fear, The House of Dead, Tomb of Pharaoh 1 (7D)",
-    "Poster": "https://in.bmscdn.com/events/moviecard/lost-in-fear-the-house-of-dead-tomb-of-pharaoh-1-7d-et00493704-1775031644.jpg",
-    "Genres": [
-      "Adventure"
-    ],
-    "Rating": "",
-    "Duration": "-",
-    "EventDate": "2025-12-27",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00493704",
-    "Variants": [
-      {
-        "VariantName": "Lost in Fear, The House of Dead, Tomb of Pharaoh 1 (7D)",
-        "EventCode": "ET00493704",
-        "Language": "English",
-        "Format": "7D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Prehistoric Adventure 7D, Scary House, Polar Roller Coaster (7D)",
-    "Poster": "https://in.bmscdn.com/events/moviecard/prehistoric-adventure-7d-scary-house-polar-roller-coaster-7d-et00478898-1766988555.jpg",
-    "Genres": [
-      "Adventure"
-    ],
-    "Rating": "",
-    "Duration": "-",
-    "EventDate": "2025-12-27",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00478898",
-    "Variants": [
-      {
-        "VariantName": "Prehistoric Adventure 7D, Scary House, Polar Roller Coaster (7D)",
-        "EventCode": "ET00478898",
-        "Language": "English",
-        "Format": "7D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Canyon Coaster+Terrific Dinosaurs+Adventure of Jet Cat (7D)",
-    "Poster": "https://in.bmscdn.com/events/moviecard/canyon-coasterterrific-dinosaursadventure-of-jet-cat-7d-et00506102-1783328739.jpg",
+    "Title": "Mere Badle Ki Aag",
+    "Poster": "https://in.bmscdn.com/events/moviecard/mere-badle-ki-aag-et00101542-06-08-2020-10-54-23.jpg",
     "Genres": [
       "Drama"
     ],
-    "Rating": "",
-    "Duration": "-",
-    "EventDate": "2026-07-01",
+    "Rating": "UA",
+    "Duration": "2 hrs 55 mins",
+    "EventDate": "2007-04-20",
     "isNewEvent": "N",
     "CityCount": 1,
-    "DefaultEventCode": "ET00506102",
+    "DefaultEventCode": "ET00101542",
     "Variants": [
       {
-        "VariantName": "Canyon Coaster+Terrific Dinosaurs+Adventure of Jet Cat (7D)",
-        "EventCode": "ET00506102",
-        "Language": "English",
-        "Format": "7D",
+        "VariantName": "Mere Badle Ki Aag",
+        "EventCode": "ET00101542",
+        "Language": "Hindi",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Dear Husband",
+    "Poster": "https://in.bmscdn.com/events/moviecard/dear-husband-et00520364-1790938211.jpg",
+    "Genres": [
+      "Crime",
+      "Drama",
+      "Romantic"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 2 mins",
+    "EventDate": "2026-10-02",
+    "isNewEvent": "Y",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00520364",
+    "Variants": [
+      {
+        "VariantName": "Dear Husband",
+        "EventCode": "ET00520364",
+        "Language": "Hindi",
+        "Format": "2D",
         "CityCount": 1
       }
     ]
@@ -3669,119 +2910,6 @@
       {
         "VariantName": "Batwara 1947",
         "EventCode": "ET00427669",
-        "Language": "Hindi",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Honii Hajoor",
-    "Poster": "https://in.bmscdn.com/events/moviecard/honii-hajoor-et00518885-1790236776.jpg",
-    "Genres": [
-      "Drama",
-      "Romantic"
-    ],
-    "Rating": "U",
-    "Duration": "2 hrs 20 mins",
-    "EventDate": "2026-09-25",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00518885",
-    "Variants": [
-      {
-        "VariantName": "Honii Hajoor",
-        "EventCode": "ET00518885",
-        "Language": "Nepali",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Test LK",
-    "Poster": "https://in.bmscdn.com/events/moviecard/test-lk-et00507070-1783771358.jpg",
-    "Genres": [
-      "Drama"
-    ],
-    "Rating": "U",
-    "Duration": "2 hrs ",
-    "EventDate": "2010-05-15",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00507070",
-    "Variants": [
-      {
-        "VariantName": "Test LK",
-        "EventCode": "ET00507070",
-        "Language": "Bengali",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Asambhauuu",
-    "Poster": "https://in.bmscdn.com/events/moviecard/asambhauuu-et00495929-1786721207.jpg",
-    "Genres": [
-      "Adventure",
-      "Drama"
-    ],
-    "Rating": "UA13",
-    "Duration": "2 hrs 29 mins",
-    "EventDate": "2026-09-03",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00495929",
-    "Variants": [
-      {
-        "VariantName": "Asambhauuu",
-        "EventCode": "ET00495929",
-        "Language": "Gujarati",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Abhayam",
-    "Poster": "https://in.bmscdn.com/events/moviecard/abhayam-et00521281-1791371303.jpg",
-    "Genres": [
-      "Drama"
-    ],
-    "Rating": "",
-    "Duration": "2 hrs ",
-    "EventDate": "2026-10-09",
-    "isNewEvent": "Y",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00521281",
-    "Variants": [
-      {
-        "VariantName": "Abhayam",
-        "EventCode": "ET00521281",
-        "Language": "Gujarati",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Rajini: The Jailer 2",
-    "Poster": "https://in.bmscdn.com/events/moviecard/rajini-the-jailer-2-et00429213-1736921279.jpg",
-    "Genres": [
-      "Action",
-      "Thriller"
-    ],
-    "Rating": "",
-    "Duration": "-",
-    "EventDate": "2026-10-15",
-    "isNewEvent": "Y",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00429213",
-    "Variants": [
-      {
-        "VariantName": "Rajini: The Jailer 2 (Hindi)",
-        "EventCode": "ET00429213",
         "Language": "Hindi",
         "Format": "2D",
         "CityCount": 1
@@ -3813,141 +2941,93 @@
     ]
   },
   {
-    "Title": "Vinnaithaandi Varuvaayaa",
-    "Poster": "https://in.bmscdn.com/events/moviecard/vinnaithaandi-varuvaayaa-et00038721-06-11-2020-11-54-16.jpg",
-    "Genres": [
-      "Drama",
-      "Romantic"
-    ],
-    "Rating": "UA",
-    "Duration": "2 hrs 45 mins",
-    "EventDate": "2010-02-26",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00038721",
-    "Variants": [
-      {
-        "VariantName": "Vinnaithaandi Varuvaayaa",
-        "EventCode": "ET00038721",
-        "Language": "Tamil",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "The Dark Heaven",
-    "Poster": "https://in.bmscdn.com/events/moviecard/the-dark-heaven-et00515005-1788264637.jpg",
-    "Genres": [
-      "Crime",
-      "Thriller"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 27 mins",
-    "EventDate": "2026-09-18",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00515005",
-    "Variants": [
-      {
-        "VariantName": "The Dark Heaven",
-        "EventCode": "ET00515005",
-        "Language": "Tamil",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Jana Nayagan",
-    "Poster": "https://in.bmscdn.com/events/moviecard/jana-nayagan-et00430817-1784548204.jpg",
+    "Title": "Raibasi",
+    "Poster": "https://in.bmscdn.com/events/moviecard/raibasi-et00517922-1789741686.jpg",
     "Genres": [
       "Action",
       "Drama",
-      "Political"
+      "Romantic"
     ],
-    "Rating": "A",
-    "Duration": "3 hrs 3 mins",
-    "EventDate": "2026-07-23",
+    "Rating": "UA16",
+    "Duration": "1 hr 55 mins",
+    "EventDate": "2026-09-11",
     "isNewEvent": "N",
     "CityCount": 1,
-    "DefaultEventCode": "ET00430817",
+    "DefaultEventCode": "ET00517922",
     "Variants": [
       {
-        "VariantName": "Jana Nayagan",
-        "EventCode": "ET00430817",
-        "Language": "Tamil",
+        "VariantName": "Raibasi",
+        "EventCode": "ET00517922",
+        "Language": "Garhwali",
         "Format": "2D",
         "CityCount": 1
       }
     ]
   },
   {
-    "Title": "Aarambham Oru Albaniyo Katha",
-    "Poster": "https://in.bmscdn.com/events/moviecard/aarambham-oru-albaniyo-katha-et00521365-1791424771.jpg",
+    "Title": "DFO Diary: Fire Warriors",
+    "Poster": "https://in.bmscdn.com/events/moviecard/dfo-diary-fire-warriors-et00467907-1761224924.jpg",
     "Genres": [
       "Drama"
     ],
-    "Rating": "",
-    "Duration": "-",
-    "EventDate": "2026-10-09",
-    "isNewEvent": "Y",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00521365",
-    "Variants": [
-      {
-        "VariantName": "Aarambham Oru Albaniyo Katha",
-        "EventCode": "ET00521365",
-        "Language": "Malayalam",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Panjaa ",
-    "Poster": "https://in.bmscdn.com/events/moviecard/panjaa-et00008132-01-08-2017-04-15-40.jpg",
-    "Genres": [
-      "Action",
-      "Crime",
-      "Drama",
-      "Romantic"
-    ],
-    "Rating": "A",
-    "Duration": "2 hrs 31 mins",
-    "EventDate": "2011-12-09",
+    "Rating": "UA 7",
+    "Duration": "1 hr 37 mins",
+    "EventDate": "2025-10-24",
     "isNewEvent": "N",
     "CityCount": 1,
-    "DefaultEventCode": "ET00008132",
+    "DefaultEventCode": "ET00467907",
     "Variants": [
       {
-        "VariantName": "Panjaa (Telugu)",
-        "EventCode": "ET00008132",
-        "Language": "Telugu",
+        "VariantName": "DFO Diary: Fire Warriors",
+        "EventCode": "ET00467907",
+        "Language": "Hindi",
         "Format": "2D",
         "CityCount": 1
       }
     ]
   },
   {
-    "Title": "It's a Medical Miracle",
-    "Poster": "https://in.bmscdn.com/events/moviecard/it-s-a-medical-miracle-et00515245-1788349351.jpg",
+    "Title": "Khoonta",
+    "Poster": "https://in.bmscdn.com/events/moviecard/khoonta-et00516985-1789202622.jpg",
     "Genres": [
-      "Drama",
-      "Supernatural",
-      "Thriller"
+      "Drama"
     ],
     "Rating": "UA16",
-    "Duration": "2 hrs 19 mins",
+    "Duration": "2 hrs 3 mins",
     "EventDate": "2026-09-18",
     "isNewEvent": "N",
     "CityCount": 1,
-    "DefaultEventCode": "ET00515245",
+    "DefaultEventCode": "ET00516985",
     "Variants": [
       {
-        "VariantName": "It's a Medical Miracle",
-        "EventCode": "ET00515245",
-        "Language": "Malayalam",
+        "VariantName": "Khoonta",
+        "EventCode": "ET00516985",
+        "Language": "Hindi",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "The End of Oak Street",
+    "Poster": "https://in.bmscdn.com/events/moviecard/the-end-of-oak-street-et00493028-1785826448.jpg",
+    "Genres": [
+      "Action",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "Rating": "A",
+    "Duration": "1 hr 39 mins",
+    "EventDate": "2026-08-14",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00493026",
+    "Variants": [
+      {
+        "VariantName": "The End of Oak Street (Tamil)",
+        "EventCode": "ET00493028",
+        "Language": "Tamil",
         "Format": "2D",
         "CityCount": 1
       }
@@ -3978,6 +3058,76 @@
     ]
   },
   {
+    "Title": "Lutt Mubarak",
+    "Poster": "https://in.bmscdn.com/events/moviecard/lutt-mubarak-et00517757-1789642069.jpg",
+    "Genres": [
+      "Crime",
+      "Drama",
+      "Family"
+    ],
+    "Rating": "U",
+    "Duration": "2 hrs 10 mins",
+    "EventDate": "2026-09-25",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00517757",
+    "Variants": [
+      {
+        "VariantName": "Lutt Mubarak",
+        "EventCode": "ET00517757",
+        "Language": "Punjabi",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Ozhiyathe",
+    "Poster": "https://in.bmscdn.com/events/moviecard/ozhiyathe-et00515629-1788517439.jpg",
+    "Genres": [
+      "Drama",
+      "Period"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 13 mins",
+    "EventDate": "2026-09-11",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00515629",
+    "Variants": [
+      {
+        "VariantName": "Ozhiyathe",
+        "EventCode": "ET00515629",
+        "Language": "Malayalam",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Dahaan: The Evil Within",
+    "Poster": "https://in.bmscdn.com/events/moviecard/dahaan-the-evil-within-et00509404-1789129258.jpg",
+    "Genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "Rating": "A",
+    "Duration": "2 hrs 13 mins",
+    "EventDate": "2026-09-11",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00509404",
+    "Variants": [
+      {
+        "VariantName": "Dahaan: The Evil Within",
+        "EventCode": "ET00509404",
+        "Language": "Odia",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
     "Title": "Maliput Melodies",
     "Poster": "https://in.bmscdn.com/events/moviecard/maliput-melodies-et00516051-1788770184.jpg",
     "Genres": [
@@ -3993,30 +3143,6 @@
       {
         "VariantName": "Maliput Melodies",
         "EventCode": "ET00516051",
-        "Language": "Odia",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Dandakali",
-    "Poster": "https://in.bmscdn.com/events/moviecard/dandakali-et00510338-1785740480.jpg",
-    "Genres": [
-      "Drama",
-      "Mythological",
-      "Thriller"
-    ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 40 mins",
-    "EventDate": "2026-09-11",
-    "isNewEvent": "N",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00510338",
-    "Variants": [
-      {
-        "VariantName": "Dandakali",
-        "EventCode": "ET00510338",
         "Language": "Odia",
         "Format": "2D",
         "CityCount": 1
@@ -4097,23 +3223,282 @@
     ]
   },
   {
-    "Title": "Lutt Mubarak",
-    "Poster": "https://in.bmscdn.com/events/moviecard/lutt-mubarak-et00517757-1789642069.jpg",
+    "Title": "Dandakali",
+    "Poster": "https://in.bmscdn.com/events/moviecard/dandakali-et00510338-1785740480.jpg",
     "Genres": [
-      "Crime",
+      "Drama",
+      "Mythological",
+      "Thriller"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 40 mins",
+    "EventDate": "2026-09-11",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00510338",
+    "Variants": [
+      {
+        "VariantName": "Dandakali",
+        "EventCode": "ET00510338",
+        "Language": "Odia",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Aajo Ardhangini",
+    "Poster": "https://in.bmscdn.com/events/moviecard/aajo-ardhangini-et00503612-1781687007.jpg",
+    "Genres": [
       "Drama",
       "Family"
     ],
-    "Rating": "U",
-    "Duration": "2 hrs 10 mins",
-    "EventDate": "2026-09-25",
+    "Rating": "UA16",
+    "Duration": "2 hrs 25 mins",
+    "EventDate": "2026-07-10",
     "isNewEvent": "N",
     "CityCount": 1,
-    "DefaultEventCode": "ET00517757",
+    "DefaultEventCode": "ET00503612",
     "Variants": [
       {
-        "VariantName": "Lutt Mubarak",
-        "EventCode": "ET00517757",
+        "VariantName": "Aajo Ardhangini",
+        "EventCode": "ET00503612",
+        "Language": "Bengali",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Aatankvadi",
+    "Poster": "https://in.bmscdn.com/events/moviecard/aatankvadi-et00054871-16-03-2017-09-40-41.jpg",
+    "Genres": [
+      "Action",
+      "Drama"
+    ],
+    "Rating": "A",
+    "Duration": "2 hrs 38 mins",
+    "EventDate": "2017-03-17",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00054871",
+    "Variants": [
+      {
+        "VariantName": "Aatankwadi",
+        "EventCode": "ET00054871",
+        "Language": "Bhojpuri",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "The Magic Faraway Tree",
+    "Poster": "https://in.bmscdn.com/events/moviecard/the-magic-faraway-tree-et00511400-1786602571.jpg",
+    "Genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "Rating": "UA 7",
+    "Duration": "1 hr 50 mins",
+    "EventDate": "2026-09-04",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00511400",
+    "Variants": [
+      {
+        "VariantName": "The Magic Faraway Tree",
+        "EventCode": "ET00511400",
+        "Language": "English",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Minions & Monsters",
+    "Poster": "https://in.bmscdn.com/events/moviecard/minions-and-monsters-et00487783-1785417112.jpg",
+    "Genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "Rating": "UA 7",
+    "Duration": "1 hr 30 mins",
+    "EventDate": "2026-07-02",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00487783",
+    "Variants": [
+      {
+        "VariantName": "Minions & Monsters",
+        "EventCode": "ET00487783",
+        "Language": "English",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Toy Story 5",
+    "Poster": "https://in.bmscdn.com/events/moviecard/toy-story-5-et00482787-1780901834.jpg",
+    "Genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "Rating": "U",
+    "Duration": "1 hr 47 mins",
+    "EventDate": "2026-06-19",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00482787",
+    "Variants": [
+      {
+        "VariantName": "Toy Story 5",
+        "EventCode": "ET00482787",
+        "Language": "English",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Haiwaan",
+    "Poster": "https://in.bmscdn.com/events/moviecard/haiwaan-et00506432-1788412070.jpg",
+    "Genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 44 mins",
+    "EventDate": "2026-09-11",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00506432",
+    "Variants": [
+      {
+        "VariantName": "Haiwaan",
+        "EventCode": "ET00506432",
+        "Language": "Hindi",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Test LK",
+    "Poster": "https://in.bmscdn.com/events/moviecard/test-lk-et00507070-1783771358.jpg",
+    "Genres": [
+      "Drama"
+    ],
+    "Rating": "U",
+    "Duration": "2 hrs ",
+    "EventDate": "2010-05-15",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00507070",
+    "Variants": [
+      {
+        "VariantName": "Test LK",
+        "EventCode": "ET00507070",
+        "Language": "Bengali",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Chaal Jeevi Laiye",
+    "Poster": "https://in.bmscdn.com/events/moviecard/chaal-jeevi-laiye-et00093811-15-10-2020-02-46-21.jpg",
+    "Genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "Rating": "U",
+    "Duration": "2 hrs 17 mins",
+    "EventDate": "2019-02-01",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00093811",
+    "Variants": [
+      {
+        "VariantName": "Chaal Jeevi Laiye",
+        "EventCode": "ET00093811",
+        "Language": "Gujarati",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Firki",
+    "Poster": "https://in.bmscdn.com/events/moviecard/firki-2025-et00470536-1762863027.jpg",
+    "Genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "Rating": "UA16",
+    "Duration": "1 hr 53 mins",
+    "EventDate": "2026-09-18",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00470536",
+    "Variants": [
+      {
+        "VariantName": "Firki",
+        "EventCode": "ET00470536",
+        "Language": "Gujarati",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Zindagi Na Milegi Dobara",
+    "Poster": "https://in.bmscdn.com/events/moviecard/zindagi-na-milegi-dobara-et00006440-07-01-2021-11-25-35.jpg",
+    "Genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "Rating": "UA",
+    "Duration": "2 hrs 33 mins",
+    "EventDate": "2011-07-15",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00006440",
+    "Variants": [
+      {
+        "VariantName": "Zindagi Na Milegi Dobara",
+        "EventCode": "ET00006440",
+        "Language": "Hindi",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Na Ik Duje Ton Ghat Singh Vs Kaur 2 Na Ik Duje Ton Wake",
+    "Poster": "https://in.bmscdn.com/events/moviecard/singh-vs-kaur-2-et00452562-1788773960.jpg",
+    "Genres": [
+      "Comedy",
+      "Romantic"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 25 mins",
+    "EventDate": "2026-09-11",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00452562",
+    "Variants": [
+      {
+        "VariantName": "Na Ik Duje Ton Ghat Singh Vs Kaur 2 Na Ik Duje Ton Wake",
+        "EventCode": "ET00452562",
         "Language": "Punjabi",
         "Format": "2D",
         "CityCount": 1
@@ -4121,24 +3506,328 @@
     ]
   },
   {
-    "Title": "Amanushikam",
-    "Poster": "https://in.bmscdn.com/events/moviecard/amanushikam-et00516189-1788849981.jpg",
+    "Title": "Vinnaithaandi Varuvaayaa",
+    "Poster": "https://in.bmscdn.com/events/moviecard/vinnaithaandi-varuvaayaa-et00038721-06-11-2020-11-54-16.jpg",
     "Genres": [
-      "Horror",
+      "Drama",
+      "Romantic"
+    ],
+    "Rating": "UA",
+    "Duration": "2 hrs 45 mins",
+    "EventDate": "2010-02-26",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00038721",
+    "Variants": [
+      {
+        "VariantName": "Vinnaithaandi Varuvaayaa",
+        "EventCode": "ET00038721",
+        "Language": "Tamil",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Jana Nayagan",
+    "Poster": "https://in.bmscdn.com/events/moviecard/jana-nayagan-et00430817-1784548204.jpg",
+    "Genres": [
+      "Action",
+      "Drama",
+      "Political"
+    ],
+    "Rating": "A",
+    "Duration": "3 hrs 3 mins",
+    "EventDate": "2026-07-23",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00430817",
+    "Variants": [
+      {
+        "VariantName": "Jana Nayagan",
+        "EventCode": "ET00430817",
+        "Language": "Tamil",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "The Dark Heaven",
+    "Poster": "https://in.bmscdn.com/events/moviecard/the-dark-heaven-et00515005-1788264637.jpg",
+    "Genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 27 mins",
+    "EventDate": "2026-09-18",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00515005",
+    "Variants": [
+      {
+        "VariantName": "The Dark Heaven",
+        "EventCode": "ET00515005",
+        "Language": "Tamil",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Panchayathu Patti",
+    "Poster": "https://in.bmscdn.com/events/moviecard/panchayathu-patti-et00521447-1791456360.jpg",
+    "Genres": [
+      "Comedy",
+      "Drama",
+      "Political",
+      "Romantic"
+    ],
+    "Rating": "",
+    "Duration": "1 hr 32 mins",
+    "EventDate": "2026-10-09",
+    "isNewEvent": "Y",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00521447",
+    "Variants": [
+      {
+        "VariantName": "Panchayathu Patti",
+        "EventCode": "ET00521447",
+        "Language": "Tamil",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "It's a Medical Miracle",
+    "Poster": "https://in.bmscdn.com/events/moviecard/it-s-a-medical-miracle-et00515245-1788349351.jpg",
+    "Genres": [
+      "Drama",
+      "Supernatural",
+      "Thriller"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 19 mins",
+    "EventDate": "2026-09-18",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00515245",
+    "Variants": [
+      {
+        "VariantName": "It's a Medical Miracle",
+        "EventCode": "ET00515245",
+        "Language": "Malayalam",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Trikaaram",
+    "Poster": "https://in.bmscdn.com/events/moviecard/trikaaram-et00517775-1789649878.jpg",
+    "Genres": [
       "Mystery",
       "Thriller"
     ],
     "Rating": "UA16",
-    "Duration": "2 hrs 24 mins",
+    "Duration": "2 hrs 1 min",
+    "EventDate": "2026-10-02",
+    "isNewEvent": "Y",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00517775",
+    "Variants": [
+      {
+        "VariantName": "Trikaaram",
+        "EventCode": "ET00517775",
+        "Language": "Kannada",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "America America 2",
+    "Poster": "https://in.bmscdn.com/events/moviecard/america-america-2-et00511528-1786343063.jpg",
+    "Genres": [
+      "Drama",
+      "Romantic"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 22 mins",
+    "EventDate": "2026-09-11",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00511528",
+    "Variants": [
+      {
+        "VariantName": "America America 2",
+        "EventCode": "ET00511528",
+        "Language": "Kannada",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Spark",
+    "Poster": "https://in.bmscdn.com/events/moviecard/spark-et00513356-1787291926.jpg",
+    "Genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 29 mins",
     "EventDate": "2026-09-25",
     "isNewEvent": "N",
     "CityCount": 1,
-    "DefaultEventCode": "ET00516189",
+    "DefaultEventCode": "ET00513356",
     "Variants": [
       {
-        "VariantName": "Amanushikam",
-        "EventCode": "ET00516189",
-        "Language": "Malayalam",
+        "VariantName": "Spark",
+        "EventCode": "ET00513356",
+        "Language": "Kannada",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Insidious: Out of The Further",
+    "Poster": "https://in.bmscdn.com/events/moviecard/insidious-out-of-the-further-et00493836-1790864578.jpg",
+    "Genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "Rating": "A",
+    "Duration": "1 hr 45 mins",
+    "EventDate": "2026-08-21",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00493836",
+    "Variants": [
+      {
+        "VariantName": "Insidious: Out of The Further",
+        "EventCode": "ET00493836",
+        "Language": "English",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Mahakavi",
+    "Poster": "https://in.bmscdn.com/events/moviecard/mahakavi-et00517027-1789209380.jpg",
+    "Genres": [
+      "Drama",
+      "Historical"
+    ],
+    "Rating": "U",
+    "Duration": "2 hrs 2 mins",
+    "EventDate": "2026-09-18",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00517027",
+    "Variants": [
+      {
+        "VariantName": "Mahakavi",
+        "EventCode": "ET00517027",
+        "Language": "Kannada",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Common Man",
+    "Poster": "https://in.bmscdn.com/events/moviecard/common-man-et00501839-1780572133.jpg",
+    "Genres": [
+      "Action",
+      "Comedy",
+      "Political"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 26 mins",
+    "EventDate": "2026-09-25",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00501839",
+    "Variants": [
+      {
+        "VariantName": "Common Man",
+        "EventCode": "ET00501839",
+        "Language": "Kannada",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Bingo",
+    "Poster": "https://in.bmscdn.com/events/moviecard/bingo-et00419437-1731391297.jpg",
+    "Genres": [
+      "Drama",
+      "Suspense",
+      "Thriller"
+    ],
+    "Rating": "UA16",
+    "Duration": "1 hr 51 mins",
+    "EventDate": "2026-09-25",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00419437",
+    "Variants": [
+      {
+        "VariantName": "Bingo",
+        "EventCode": "ET00419437",
+        "Language": "Kannada",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Abhayam",
+    "Poster": "https://in.bmscdn.com/events/moviecard/abhayam-et00521281-1791443356.jpg",
+    "Genres": [
+      "Drama"
+    ],
+    "Rating": "",
+    "Duration": "2 hrs ",
+    "EventDate": "2026-10-09",
+    "isNewEvent": "Y",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00521281",
+    "Variants": [
+      {
+        "VariantName": "Abhayam",
+        "EventCode": "ET00521281",
+        "Language": "Gujarati",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "I'm Game",
+    "Poster": "https://in.bmscdn.com/events/moviecard/i-m-game-et00511704-1788157536.jpg",
+    "Genres": [
+      "Fantasy",
+      "Thriller"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 54 mins",
+    "EventDate": "2026-09-03",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00473215",
+    "Variants": [
+      {
+        "VariantName": "I'm Game (Hindi)",
+        "EventCode": "ET00511704",
+        "Language": "Hindi",
         "Format": "2D",
         "CityCount": 1
       }
@@ -4234,6 +3923,94 @@
         "EventCode": "ET00465229",
         "Language": "Bengali",
         "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "2nd Wish",
+    "Poster": "https://in.bmscdn.com/events/moviecard/2nd-wish-et00519895-1790755855.jpg",
+    "Genres": [
+      "Drama"
+    ],
+    "Rating": "UA 7",
+    "Duration": "1 hr 54 mins",
+    "EventDate": "2026-10-02",
+    "isNewEvent": "Y",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00519895",
+    "Variants": [
+      {
+        "VariantName": "2nd Wish",
+        "EventCode": "ET00519895",
+        "Language": "Bengali",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Canyon Coaster+Terrific Dinosaurs+Adventure of Jet Cat (7D)",
+    "Poster": "https://in.bmscdn.com/events/moviecard/canyon-coasterterrific-dinosaursadventure-of-jet-cat-7d-et00506102-1783328739.jpg",
+    "Genres": [
+      "Drama"
+    ],
+    "Rating": "",
+    "Duration": "-",
+    "EventDate": "2026-07-01",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00506102",
+    "Variants": [
+      {
+        "VariantName": "Canyon Coaster+Terrific Dinosaurs+Adventure of Jet Cat (7D)",
+        "EventCode": "ET00506102",
+        "Language": "English",
+        "Format": "7D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Lost in Fear, The House of Dead, Tomb of Pharaoh 1 (7D)",
+    "Poster": "https://in.bmscdn.com/events/moviecard/lost-in-fear-the-house-of-dead-tomb-of-pharaoh-1-7d-et00493704-1775031644.jpg",
+    "Genres": [
+      "Adventure"
+    ],
+    "Rating": "",
+    "Duration": "-",
+    "EventDate": "2025-12-27",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00493704",
+    "Variants": [
+      {
+        "VariantName": "Lost in Fear, The House of Dead, Tomb of Pharaoh 1 (7D)",
+        "EventCode": "ET00493704",
+        "Language": "English",
+        "Format": "7D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "Prehistoric Adventure 7D, Scary House, Polar Roller Coaster (7D)",
+    "Poster": "https://in.bmscdn.com/events/moviecard/prehistoric-adventure-7d-scary-house-polar-roller-coaster-7d-et00478898-1766988555.jpg",
+    "Genres": [
+      "Adventure"
+    ],
+    "Rating": "",
+    "Duration": "-",
+    "EventDate": "2025-12-27",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00478898",
+    "Variants": [
+      {
+        "VariantName": "Prehistoric Adventure 7D, Scary House, Polar Roller Coaster (7D)",
+        "EventCode": "ET00478898",
+        "Language": "English",
+        "Format": "7D",
         "CityCount": 1
       }
     ]
