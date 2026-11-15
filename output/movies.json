@@ -1,7 +1,7 @@
 [
   {
     "Title": "Ramayana",
-    "Poster": "https://in.bmscdn.com/events/moviecard/namit-malhotra-s-ramayana-et00518312-1792999972.jpg",
+    "Poster": "https://in.bmscdn.com/events/moviecard/ramayana-et00451914-1793772172.jpg",
     "Genres": [
       "Action",
       "Adventure",
@@ -12,7 +12,7 @@
     "Duration": "3 hrs 15 mins",
     "EventDate": "2026-11-05",
     "isNewEvent": "N",
-    "CityCount": 12,
+    "CityCount": 21,
     "DefaultEventCode": "ET00451914",
     "Variants": [
       {
@@ -20,27 +20,48 @@
         "EventCode": "ET00451914",
         "Language": "Hindi",
         "Format": "2D",
-        "CityCount": 9
+        "CityCount": 13
       },
       {
         "VariantName": "Ramayana (3D)(Hindi)",
         "EventCode": "ET00493076",
         "Language": "Hindi",
         "Format": "3D",
-        "CityCount": 8
+        "CityCount": 12
       },
       {
-        "VariantName": "Ramayana (Telugu)",
-        "EventCode": "ET00518312",
-        "Language": "Telugu",
-        "Format": "2D",
-        "CityCount": 1
+        "VariantName": "Ramayana (3D)(Malayalam)",
+        "EventCode": "ET00523989",
+        "Language": "Malayalam",
+        "Format": "3D",
+        "CityCount": 4
       },
       {
-        "VariantName": "Ramayana (Tamil)",
-        "EventCode": "ET00518313",
+        "VariantName": "Ramayana (3D)(Tamil)",
+        "EventCode": "ET00523997",
         "Language": "Tamil",
-        "Format": "2D",
+        "Format": "3D",
+        "CityCount": 3
+      },
+      {
+        "VariantName": "Ramayana (EPIQ 3D)(Hindi)",
+        "EventCode": "ET00523488",
+        "Language": "Hindi",
+        "Format": "EPIQ 3D",
+        "CityCount": 2
+      },
+      {
+        "VariantName": "Ramayana (3D)(Telugu)",
+        "EventCode": "ET00523155",
+        "Language": "Telugu",
+        "Format": "3D",
+        "CityCount": 2
+      },
+      {
+        "VariantName": "Ramayana (EPIQ 3D)(Malayalam)",
+        "EventCode": "ET00525863",
+        "Language": "Malayalam",
+        "Format": "EPIQ 3D",
         "CityCount": 1
       }
     ]
@@ -57,7 +78,7 @@
     "Duration": "2 hrs 29 mins",
     "EventDate": "2026-11-06",
     "isNewEvent": "N",
-    "CityCount": 3,
+    "CityCount": 9,
     "DefaultEventCode": "ET00516631",
     "Variants": [
       {
@@ -65,60 +86,225 @@
         "EventCode": "ET00516631",
         "Language": "Tamil",
         "Format": "2D",
-        "CityCount": 2
+        "CityCount": 7
       },
       {
         "VariantName": "Scene (Telugu)",
         "EventCode": "ET00525065",
         "Language": "Telugu",
         "Format": "2D",
+        "CityCount": 2
+      }
+    ]
+  },
+  {
+    "Title": "Bouma",
+    "Poster": "https://in.bmscdn.com/events/moviecard/bouma-et00513613-1787311528.jpg",
+    "Genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "Rating": "A",
+    "Duration": "1 hr 55 mins",
+    "EventDate": "2026-11-12",
+    "isNewEvent": "Y",
+    "CityCount": 4,
+    "DefaultEventCode": "ET00513613",
+    "Variants": [
+      {
+        "VariantName": "Bouma",
+        "EventCode": "ET00513613",
+        "Language": "Malayalam",
+        "Format": "2D",
+        "CityCount": 4
+      }
+    ]
+  },
+  {
+    "Title": "Melcow Pondicherry",
+    "Poster": "https://in.bmscdn.com/events/moviecard/melcow-pondicherry-et00525663-1793960558.jpg",
+    "Genres": [
+      "Adventure",
+      "Comedy",
+      "Thriller"
+    ],
+    "Rating": "UA16",
+    "Duration": "1 hr 57 mins",
+    "EventDate": "2026-11-13",
+    "isNewEvent": "Y",
+    "CityCount": 4,
+    "DefaultEventCode": "ET00525663",
+    "Variants": [
+      {
+        "VariantName": "Melcow Pondicherry",
+        "EventCode": "ET00525663",
+        "Language": "Malayalam",
+        "Format": "2D",
+        "CityCount": 4
+      }
+    ]
+  },
+  {
+    "Title": "Mookuthi Amman 2",
+    "Poster": "https://in.bmscdn.com/events/moviecard/mookuthi-amman-2-et00517348-1793776148.jpg",
+    "Genres": [
+      "Comedy",
+      "Devotional",
+      "Fantasy",
+      "Thriller"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 24 mins",
+    "EventDate": "2026-11-06",
+    "isNewEvent": "N",
+    "CityCount": 4,
+    "DefaultEventCode": "ET00517348",
+    "Variants": [
+      {
+        "VariantName": "Mookuthi Amman 2",
+        "EventCode": "ET00517348",
+        "Language": "Tamil",
+        "Format": "2D",
+        "CityCount": 4
+      }
+    ]
+  },
+  {
+    "Title": "Jailer 2",
+    "Poster": "https://in.bmscdn.com/events/moviecard/jailer-2-et00518674-1793799981.jpg",
+    "Genres": [
+      "Action",
+      "Thriller"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 45 mins",
+    "EventDate": "2026-10-15",
+    "isNewEvent": "N",
+    "CityCount": 3,
+    "DefaultEventCode": "ET00518674",
+    "Variants": [
+      {
+        "VariantName": "Jailer 2",
+        "EventCode": "ET00518674",
+        "Language": "Tamil",
+        "Format": "2D",
+        "CityCount": 3
+      }
+    ]
+  },
+  {
+    "Title": "BTS World Tour Arirang in Kaohsiung: Live Viewing",
+    "Poster": "https://in.bmscdn.com/events/moviecard/bts-world-tour-arirang-in-kaohsiung-live-viewing-et00526257-1794489704.jpg",
+    "Genres": [
+      "Musical"
+    ],
+    "Rating": "UA13",
+    "Duration": "3 hrs 30 mins",
+    "EventDate": "2026-11-21",
+    "isNewEvent": "Y",
+    "CityCount": 2,
+    "DefaultEventCode": "ET00526257",
+    "Variants": [
+      {
+        "VariantName": "BTS World Tour Arirang in Kaohsiung: Live Viewing",
+        "EventCode": "ET00526257",
+        "Language": "Korean",
+        "Format": "2D",
+        "CityCount": 2
+      }
+    ]
+  },
+  {
+    "Title": "John Doe",
+    "Poster": "https://in.bmscdn.com/events/moviecard/john-doe-et00525702-1794051624.jpg",
+    "Genres": [
+      "Crime",
+      "Psychological",
+      "Thriller"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 29 mins",
+    "EventDate": "2026-11-13",
+    "isNewEvent": "Y",
+    "CityCount": 2,
+    "DefaultEventCode": "ET00525702",
+    "Variants": [
+      {
+        "VariantName": "John Doe",
+        "EventCode": "ET00525702",
+        "Language": "Tamil",
+        "Format": "2D",
+        "CityCount": 2
+      }
+    ]
+  },
+  {
+    "Title": "Black Gold",
+    "Poster": "https://in.bmscdn.com/events/moviecard/black-gold-et00504975-1782478984.jpg",
+    "Genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 1 min",
+    "EventDate": "2026-11-13",
+    "isNewEvent": "Y",
+    "CityCount": 2,
+    "DefaultEventCode": "ET00504975",
+    "Variants": [
+      {
+        "VariantName": "Black Gold",
+        "EventCode": "ET00504975",
+        "Language": "Tamil",
+        "Format": "2D",
+        "CityCount": 2
+      }
+    ]
+  },
+  {
+    "Title": "Titanic",
+    "Poster": "https://in.bmscdn.com/events/moviecard/titanic-et00069291-1792046229.jpg",
+    "Genres": [
+      "Comedy",
+      "Romantic"
+    ],
+    "Rating": "U",
+    "Duration": "1 hr 45 mins",
+    "EventDate": "2026-11-13",
+    "isNewEvent": "Y",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00069291",
+    "Variants": [
+      {
+        "VariantName": "Titanic (Tamil)",
+        "EventCode": "ET00069291",
+        "Language": "Tamil",
+        "Format": "2D",
         "CityCount": 1
       }
     ]
   },
   {
-    "Title": "I Play Rocky",
-    "Poster": "https://in.bmscdn.com/events/moviecard/i-play-rocky-et00508520-1784704530.jpg",
+    "Title": "Rajini: The Jailer 2",
+    "Poster": "https://in.bmscdn.com/events/moviecard/rajini-the-jailer-2-et00429213-1793799925.jpg",
     "Genres": [
-      "Biography",
-      "Drama"
-    ],
-    "Rating": "A",
-    "Duration": "2 hrs 10 mins",
-    "EventDate": "2026-11-13",
-    "isNewEvent": "Y",
-    "CityCount": 2,
-    "DefaultEventCode": "ET00508520",
-    "Variants": [
-      {
-        "VariantName": "I Play Rocky",
-        "EventCode": "ET00508520",
-        "Language": "English",
-        "Format": "2D",
-        "CityCount": 2
-      }
-    ]
-  },
-  {
-    "Title": "Gondhal",
-    "Poster": "https://in.bmscdn.com/events/moviecard/gondhal-et00525564-1794465756.jpg",
-    "Genres": [
-      "Drama",
+      "Action",
       "Thriller"
     ],
     "Rating": "UA16",
-    "Duration": "2 hrs ",
-    "EventDate": "2025-11-14",
+    "Duration": "2 hrs 45 mins",
+    "EventDate": "2026-10-15",
     "isNewEvent": "N",
-    "CityCount": 2,
-    "DefaultEventCode": "ET00465382",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00429213",
     "Variants": [
       {
-        "VariantName": "Gondhal (Hindi)",
-        "EventCode": "ET00525564",
+        "VariantName": "Rajini: The Jailer 2 (Hindi)",
+        "EventCode": "ET00429213",
         "Language": "Hindi",
         "Format": "2D",
-        "CityCount": 2
+        "CityCount": 1
       }
     ]
   },
@@ -146,22 +332,22 @@
     ]
   },
   {
-    "Title": "Tu Hai Meri Kiran",
-    "Poster": "https://in.bmscdn.com/events/moviecard/tu-hai-meri-kiran-et00520164-1790836168.jpg",
+    "Title": "Pyre",
+    "Poster": "https://in.bmscdn.com/events/moviecard/pyre-et00519811-1793796736.jpg",
     "Genres": [
-      "Romantic",
-      "Thriller"
+      "Drama",
+      "Romantic"
     ],
-    "Rating": "UA16",
-    "Duration": "2 hrs 5 mins",
-    "EventDate": "2026-10-23",
+    "Rating": "U",
+    "Duration": "1 hr 55 mins",
+    "EventDate": "2026-10-30",
     "isNewEvent": "N",
     "CityCount": 1,
-    "DefaultEventCode": "ET00520164",
+    "DefaultEventCode": "ET00519811",
     "Variants": [
       {
-        "VariantName": "Tu Hai Meri Kiran",
-        "EventCode": "ET00520164",
+        "VariantName": "Pyre",
+        "EventCode": "ET00519811",
         "Language": "Hindi",
         "Format": "2D",
         "CityCount": 1
@@ -169,23 +355,47 @@
     ]
   },
   {
-    "Title": "Rajini: The Jailer 2",
-    "Poster": "https://in.bmscdn.com/events/moviecard/rajini-the-jailer-2-et00429213-1793799925.jpg",
+    "Title": "Ghost Soldier",
+    "Poster": "https://in.bmscdn.com/events/moviecard/ghost-soldier-et00518333-1789986369.jpg",
     "Genres": [
       "Action",
       "Thriller"
     ],
     "Rating": "UA16",
-    "Duration": "2 hrs 45 mins",
-    "EventDate": "2026-10-15",
-    "isNewEvent": "N",
+    "Duration": "1 hr 32 mins",
+    "EventDate": "2026-11-13",
+    "isNewEvent": "Y",
     "CityCount": 1,
-    "DefaultEventCode": "ET00429213",
+    "DefaultEventCode": "ET00518333",
     "Variants": [
       {
-        "VariantName": "Rajini: The Jailer 2 (Hindi)",
-        "EventCode": "ET00429213",
-        "Language": "Hindi",
+        "VariantName": "Ghost Soldier",
+        "EventCode": "ET00518333",
+        "Language": "English",
+        "Format": "2D",
+        "CityCount": 1
+      }
+    ]
+  },
+  {
+    "Title": "DeSu7",
+    "Poster": "https://in.bmscdn.com/events/moviecard/desu7-et00482024-1792037958.jpg",
+    "Genres": [
+      "Action",
+      "Drama",
+      "Romantic"
+    ],
+    "Rating": "UA16",
+    "Duration": "2 hrs 46 mins",
+    "EventDate": "2026-10-16",
+    "isNewEvent": "N",
+    "CityCount": 1,
+    "DefaultEventCode": "ET00482024",
+    "Variants": [
+      {
+        "VariantName": "DeSu7",
+        "EventCode": "ET00482024",
+        "Language": "Bengali",
         "Format": "2D",
         "CityCount": 1
       }
@@ -216,47 +426,23 @@
     ]
   },
   {
-    "Title": "BTS World Tour Arirang in Kaohsiung: Live Viewing",
-    "Poster": "https://in.bmscdn.com/events/moviecard/bts-world-tour-arirang-in-kaohsiung-live-viewing-et00526257-1794489704.jpg",
-    "Genres": [
-      "Musical"
-    ],
-    "Rating": "UA13",
-    "Duration": "3 hrs 30 mins",
-    "EventDate": "2026-11-21",
-    "isNewEvent": "Y",
-    "CityCount": 1,
-    "DefaultEventCode": "ET00526257",
-    "Variants": [
-      {
-        "VariantName": "BTS World Tour Arirang in Kaohsiung: Live Viewing",
-        "EventCode": "ET00526257",
-        "Language": "Korean",
-        "Format": "2D",
-        "CityCount": 1
-      }
-    ]
-  },
-  {
-    "Title": "Mookuthi Amman 2",
-    "Poster": "https://in.bmscdn.com/events/moviecard/mookuthi-amman-2-et00517348-1793776148.jpg",
+    "Title": "DNK",
+    "Poster": "https://in.bmscdn.com/events/moviecard/donga-naa-koduku-et00521157-1791351360.jpg",
     "Genres": [
       "Comedy",
-      "Devotional",
-      "Fantasy",
-      "Thriller"
+      "Crime"
     ],
     "Rating": "UA16",
-    "Duration": "2 hrs 24 mins",
-    "EventDate": "2026-11-06",
-    "isNewEvent": "N",
+    "Duration": "2 hrs 11 mins",
+    "EventDate": "2026-11-13",
+    "isNewEvent": "Y",
     "CityCount": 1,
-    "DefaultEventCode": "ET00517348",
+    "DefaultEventCode": "ET00521157",
     "Variants": [
       {
-        "VariantName": "Mookuthi Amman 2",
-        "EventCode": "ET00517348",
-        "Language": "Tamil",
+        "VariantName": "DNK",
+        "EventCode": "ET00521157",
+        "Language": "Telugu",
         "Format": "2D",
         "CityCount": 1
       }
